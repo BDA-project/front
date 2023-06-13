@@ -7,7 +7,48 @@ import { db } from '../../../helpers/firebase'
 
 const calculateAverageNoteByStudent = async () => {
    try {
-      // ...
+      const collectionRef = collection(db, 'inscripcion')
+      const querySnapshot = await getDocs(collectionRef)
+
+      const averageNotesByStudent = {}
+
+      querySnapshot.forEach((doc) => {
+         const inscripcionData = doc.data()
+
+         if (
+            inscripcionData.inscripcion_nota &&
+            inscripcionData.estudiante_id
+         ) {
+            const note = parseInt(inscripcionData.inscripcion_nota, 10)
+            const estudianteId =
+               inscripcionData.estudiante_id._key.path.segments[6]
+
+            if (!averageNotesByStudent[estudianteId]) {
+               averageNotesByStudent[estudianteId] = {
+                  estudianteId,
+                  totalNotes: 0,
+                  count: 0,
+                  averageNote: 0,
+               }
+            }
+
+            averageNotesByStudent[estudianteId].totalNotes += note
+            averageNotesByStudent[estudianteId].count++
+         }
+      })
+
+      // Obtener los nombres de los estudiantes para cada promedio de notas
+      const estudiantesSnapshot = await getDocs(collection(db, 'estudiante'))
+      const estudiantes = estudiantesSnapshot.docs.reduce((map, doc) => {
+         const estudianteData = doc.data()
+         map[estudianteData.estudiante_id] = estudianteData.estudiante_nombre
+         return map
+      }, {})
+
+      Object.values(averageNotesByStudent).forEach((averageNote) => {
+         averageNote.estudiante = estudiantes[averageNote.estudianteId]
+         averageNote.averageNote = averageNote.totalNotes / averageNote.count
+      })
 
       return Object.values(averageNotesByStudent)
    } catch (error) {

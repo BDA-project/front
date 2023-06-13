@@ -5,6 +5,8 @@ import Button from '@mui/material/Button'
 import CircularProgress from '@mui/material/CircularProgress'
 import { Typography } from '@mui/material'
 import { db } from '../../../helpers/firebase'
+import { AsignaturasChart } from '../charts/AsignaturasChart'
+import { ProgramasChart } from '../charts/ProgramasChart'
 
 export const ObtenerIntensidadHorariaProgramas = () => {
    const [loading, setLoading] = useState(false)
@@ -37,7 +39,6 @@ export const ObtenerIntensidadHorariaProgramas = () => {
                   intensidadHorariaTotal: 0,
                }
             }
-            console.log(cursos)
             const cursosAsignatura = cursos.filter(
                (curso) =>
                   curso.asignatura_id._key.path.segments[6] ===
@@ -137,6 +138,7 @@ export const ObtenerIntensidadHorariaProgramas = () => {
                </tbody>
             </table>
          )}
+         <ProgramasChart intensidadesHorarias={resultados} />
       </Box>
    )
 }

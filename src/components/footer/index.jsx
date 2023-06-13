@@ -5,12 +5,12 @@ import PersonIcon from '@mui/icons-material/Person'
 import EmailIcon from '@mui/icons-material/Email'
 import GitHubIcon from '@mui/icons-material/GitHub'
 
-export const Footer = () => {
+export const Footer = ({ color }) => {
    return (
       <Box
          mt={16}
          sx={{
-            bgcolor: '#1976d2',
+            bgcolor: color,
             color: '#fff',
             p: 2,
             boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
@@ -53,7 +53,13 @@ export const Footer = () => {
                   justifyContent="center"
                >
                   <GitHubIcon sx={{ mr: 1 }} />
-                  https://github.com/Nzone56
+                  <a
+                     href="https://github.com/Nzone56"
+                     target="_blank"
+                     rel="noopener noreferrer"
+                  >
+                     https://github.com/Nzone56
+                  </a>
                </Typography>
             </Grid>
             <Grid item xs={12} sm={4}>
@@ -92,7 +98,13 @@ export const Footer = () => {
                   justifyContent="center"
                >
                   <GitHubIcon sx={{ mr: 1 }} />
-                  https://github.com/geramirezl
+                  <a
+                     href="https://github.com/geramirezl"
+                     target="_blank"
+                     rel="noopener noreferrer"
+                  >
+                     https://github.com/geramirezl
+                  </a>
                </Typography>
             </Grid>
             <Grid item xs={12} sm={4}>
@@ -131,7 +143,13 @@ export const Footer = () => {
                   justifyContent="center"
                >
                   <GitHubIcon sx={{ mr: 1 }} />
-                  https://github.com/sctovrp
+                  <a
+                     href="https://github.com/sctovrp"
+                     target="_blank"
+                     rel="noopener noreferrer"
+                  >
+                     https://github.com/sctovrp
+                  </a>
                </Typography>
             </Grid>
          </Grid>

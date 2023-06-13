@@ -80,15 +80,6 @@ export const FirebaseTest = () => {
          </Typography>
          <ObtenerIntensidadHorariaAsignaturas />
          <ObtenerIntensidadHorariaProgramas />
-         <Typography
-            m={2}
-            variant="h4"
-            component="h4"
-            sx={{ color: '#1976d2' }}
-         >
-            Gráficos
-         </Typography>
-         {/* <StudentChart /> */}
       </Box>
    )
 }

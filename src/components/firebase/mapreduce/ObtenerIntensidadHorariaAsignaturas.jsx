@@ -5,6 +5,7 @@ import Button from '@mui/material/Button'
 import CircularProgress from '@mui/material/CircularProgress'
 import { Typography } from '@mui/material'
 import { db } from '../../../helpers/firebase'
+import { AsignaturasChart } from '../charts/AsignaturasChart'
 
 export const ObtenerIntensidadHorariaAsignaturas = () => {
    const [loading, setLoading] = useState(false)
@@ -119,6 +120,7 @@ export const ObtenerIntensidadHorariaAsignaturas = () => {
                </tbody>
             </table>
          )}
+         <AsignaturasChart intensidadesHorarias={resultados} />
       </Box>
    )
 }

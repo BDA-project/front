@@ -1,48 +1,28 @@
 import { AppBar, Tab, Tabs, Toolbar, Typography } from '@mui/material'
 import { Link, useLocation } from 'react-router-dom'
-import { withStyles } from '@mui/styles'
 
 const tabsConfig = [
    {
       label: 'Home',
       path: '/',
+      color: '#FF0000', // Rojo
    },
    {
       label: 'Firebase',
       path: '/firebase',
+      color: '#1976d2', // Azul
    },
    {
       label: 'Xata',
       path: '/xata',
+      color: '#B97FFF', // Morado
    },
    {
       label: 'Spark',
       path: '/spark',
+      color: '#FFA500', // Naranja
    },
 ]
-
-const styles = (theme) => ({
-   root: {
-      '&.Mui-selected': {
-         color: '#FFFFFF',
-         backgroundColor: '#666666',
-         '&::after': {
-            borderBottomColor: '#FF0000',
-         },
-      },
-      '&:not(.Mui-selected)': {
-         color: '#CCCCCC',
-      },
-      '&:hover:not(.Mui-selected)::after': {
-         borderBottomColor: '#FF0000',
-      },
-      '&::after': {
-         borderBottom: `2px solid transparent`,
-      },
-   },
-})
-
-const RedUnderlineTab = withStyles(styles)(Tab)
 
 export const Header = () => {
    const location = useLocation()
@@ -63,16 +43,43 @@ export const Header = () => {
                component="div"
                sx={{ flexGrow: 1, textAlign: 'center' }}
             >
-               Encabezado
+               BDA - PROYECTO FINAL
             </Typography>
          </Toolbar>
-         <Tabs value={activeTab} onChange={handleTabChange} centered>
+         <Tabs
+            value={activeTab}
+            onChange={handleTabChange}
+            centered
+            TabIndicatorProps={{
+               style: {
+                  backgroundColor: tabsConfig[activeTab]?.color,
+               },
+            }}
+         >
             {tabsConfig.map((tab, index) => (
-               <RedUnderlineTab
+               <Tab
                   key={index}
                   component={Link}
                   to={tab.path}
                   label={tab.label}
+                  sx={{
+                     '&.Mui-selected': {
+                        color: '#FFFFFF',
+                        backgroundColor: tab.color,
+                        '&::after': {
+                           borderBottomColor: tab.color,
+                        },
+                     },
+                     '&:not(.Mui-selected)': {
+                        color: '#CCCCCC',
+                     },
+                     '&:hover:not(.Mui-selected)::after': {
+                        borderBottomColor: tab.color,
+                     },
+                     '&::after': {
+                        borderBottom: '2px solid transparent',
+                     },
+                  }}
                />
             ))}
          </Tabs>

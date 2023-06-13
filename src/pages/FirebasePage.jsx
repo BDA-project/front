@@ -7,7 +7,7 @@ export const FirebasePage = () => {
       <>
          <Header />
          <FirebaseTest />
-         <Footer />
+         <Footer color={'#1976d2'} />
       </>
    )
 }
