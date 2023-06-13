@@ -1,0 +1,505 @@
+estudiante_id,estudiante_nombre,estudiante_genero,estudiante_edad,estudiante_correo,estudiante_sede,estudiante_jornada,estudiante_periodo,estudiante_nivel,id
+1023962963,Forero Mora Tania Carolina,Femenino,25,tcforerom222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1023962963Forero_Mora_Tania_Carolina
+1044609346,Meza Acevedo Zanela Laudith,Femenino,18,zlmezaa222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1044609346Meza_Acevedo_Zanela_Laudith
+1000454582,Vargas Mendez Johann Diovanis,Masculino,21,jdvargasm221@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000454582Vargas_Mendez_Johann_Diovanis
+1121339000,Farfan Rueda Jose Alfonso,Masculino,22,jafarfanr231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1121339000Farfan_Rueda_Jose_Alfonso
+1072715568,Alvarez Contreras Jonathan Steven,Masculino,25,jsalvarezc231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1072715568Alvarez_Contreras_Jonathan_Steven
+1022344813,Jimenez Gaviria Laura Alejandra,Femenino,17,lajimenezg231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1022344813Jimenez_Gaviria_Laura_Alejandra
+1014179316,Gutierrez Jimenez Nancy Johanna,Femenino,36,njgutierrezj222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1014179316Gutierrez_Jimenez_Nancy_Johanna
+1024598628,Izquierdo Rey Diana Carollina,Femenino,23,DCIZQUIERDOR231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1024598628Izquierdo_Rey_Diana_Carollina
+1013111717,Roa Tovar Darsy Yerezha,Femenino,16,dyroat231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1013111717Roa_Tovar_Darsy_Yerezha
+1000328157,Neisa Jimenez Nicol Gabriela,Femenino,19,ngneisaj231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1000328157Neisa_Jimenez_Nicol_Gabriela
+1073510946,Yaima Moreno Yuri Marcela,Femenino,18,ymyaimam221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1073510946Yaima_Moreno_Yuri_Marcela
+1233889383,Ruge Pino Angelica,Femenino,25,arugep222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1233889383Ruge_Pino_Angelica
+1193075682,Bravo Fajardo Juan Alberto,Masculino,21,jabravof222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1193075682Bravo_Fajardo_Juan_Alberto
+1027523262,Fierro Moreno Aneth Dayana,Femenino,18,adfierrom231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1027523262Fierro_Moreno_Aneth_Dayana
+1000588148,Hortua Guerrero Juan Manuel,Masculino,22,jmhortuag231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000588148Hortua_Guerrero_Juan_Manuel
+1033702849,Culma Useche Jonnier David,Masculino,16,jdculmau222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1033702849Culma_Useche_Jonnier_David
+1032797096,Cely Galindo Paula Alejandra,Femenino,18,pacelyg231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1032797096Cely_Galindo_Paula_Alejandra
+1015999470,Organista Vasquez Danna Sofia,Femenino,18,dsorganistav221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1015999470Organista_Vasquez_Danna_Sofia
+1105613609,Salamanca Velasco Jeniffer,Femenino,32,jsalamancav222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1105613609Salamanca_Velasco_Jeniffer
+1019012571,Reyes Payan Yerik Alejandra,Femenino,18,yareyesp222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1019012571Reyes_Payan_Yerik_Alejandra
+1073512969,Gaitán Pedraza Karen Jessenia,Femenino,29,kjgaitanp231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1073512969Gaitan_Pedraza_Karen_Jessenia
+1003578016,Velandia Garzon Sandra Janeth,Femenino,20,sjvelandiag231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1003578016Velandia_Garzon_Sandra_Janeth
+1034777846,Peña Moncada Laura Stephania,Femenino,18,lspenam231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034777846Pena_Moncada_Laura_Stephania
+1000123877,Rodriguez Saenz Juliana Valentina,Femenino,21,jvrodriguezs212@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000123877Rodriguez_Saenz_Juliana_Valentina
+1016112418,Riascos Garcia Camila,Femenino,23,criascosg222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1016112418Riascos_Garcia_Camila
+1010034078,Vargas Cuy Jhonatan Alexander,Masculino,22,javargasc222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1010034078Vargas_Cuy_Jhonatan_Alexander
+1000622058,Vega Nizo Angelica Tatiana,Femenino,19,atvegan231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000622058Vega_Nizo_Angelica_Tatiana
+1016712522,Toro Perez Yilber Alexis,Masculino,18,yatorop222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1016712522Toro_Perez_Yilber_Alexis
+1016942114,Torres Diaz Karol Viviana,Femenino,19,kvtorresd221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1016942114Torres_Diaz_Karol_Viviana
+1000707236,Vargas Lopez Alisson Jiveth,Femenino,19,ajvargasl231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000707236Vargas_Lopez_Alisson_Jiveth
+1000458318,Alarcon Mendez Daniel Alejandro,Masculino,21,daalarconm231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000458318Alarcon_Mendez_Daniel_Alejandro
+1024599914,Fernandez Triana Yuliana Katerin,Femenino,23,ykfernandezt202@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1024599914Fernandez_Triana_Yuliana_Katerin
+1034279577,Mendez Bernal Gabriela,Femenino,18,bmendezb231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034279577Mendez_Bernal_Gabriela
+1019144425,Marin Guevara Esteban,Masculino,24,emaring222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1019144425Marin_Guevara_Esteban
+1003882573,Rodriguez Montaño Gineth Tatiana,Femenino,19,gtrodriguezm222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1003882573Rodriguez_Montano_Gineth_Tatiana
+1006814227,Avila Macanilla Marlyn Yulieth,Femenino,21,myavilam222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1006814227Avila_Macanilla_Marlyn_Yulieth
+1033098062,Ovalle Salamanca Estefania,Femenino,17,eovalles231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1033098062Ovalle_Salamanca_Estefania
+1007912267,Bello Jimenez Deybi Valentina,Femenino,19,dvbelloj231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1007912267Bello_Jimenez_Deybi_Valentina
+1029140039,Suescun Rojas Lina Marcela,Femenino,18,LMSUESCUNR231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1029140039Suescun_Rojas_Lina_Marcela
+1136911360,Edgar Nicolas Bolanos Jojoa,Masculino,25,enbolanosj181@cen.edu.co,Bogotá,Diurna,2023-1,4 Semestre,1136911360Edgar_Nicolas_Bolanos_Jojoa
+1019982565,Rodriguez Combariza Maria Jose,Femenino,18,mjrodriguezc231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1019982565Rodriguez_Combariza_Maria_Jose
+1073230431,Arias Diaz Laura Mariana,Femenino,18,lmariasd231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073230431Arias_Diaz_Laura_Mariana
+1056502290,Fajardo Ramos Dania Yicel,Femenino,18,dyfajardor222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1056502290Fajardo_Ramos_Dania_Yicel
+1000519281,Arias Montes Maria Jose,Femenino,20,mjariasm221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1000519281Arias_Montes_Maria_Jose
+1015482939,Cocuy Mendoza Heidy Valentina,Femenino,23,hvcocuym231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1015482939Cocuy_Mendoza_Heidy_Valentina
+1069498832,Arias Quiroz Leydi Isabel,Femenino,27,LIARIASQ231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1069498832Arias_Quiroz_Leydi_Isabel
+1019985948,Neuta Garcia Diana Michelle,Femenino,17,dmneutag231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1019985948Neuta_Garcia_Diana_Michelle
+1000382317,Roman Rivera Bridgett Alejandra,Femenino,19,baromanr231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000382317Roman_Rivera_Bridgett_Alejandra
+1033778301,Gallo Scarpetta Pawer Fernando,Masculino,27,pfgallos231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1033778301Gallo_Scarpetta_Pawer_Fernando
+1014252030,Cordoba Puerto Diana Marcela,Femenino,29,dmcordobap231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1014252030Cordoba_Puerto_Diana_Marcela
+1000594717,Hilarion Niño Mariana,Femenino,19,mhilarionn222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000594717Hilarion_Nino_Mariana
+1001287019,Zarate Duarte Angie Lorena,Femenino,19,alzarated221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1001287019Zarate_Duarte_Angie_Lorena
+1007157152,Barreiro Florez Briyith Jhojanna,Femenino,20,bjbarreirof212@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1007157152Barreiro_Florez_Briyith_Jhojanna
+1000017773,Muñoz Jimenez Marlly Daniela,Femenino,20,mdmunozj221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1000017773Munoz_Jimenez_Marlly_Daniela
+1019983832,Sanchez Vergara Camila Alejandra,Femenino,18,casanchezv231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1019983832Sanchez_Vergara_Camila_Alejandra
+1018480603,Bolaños Nuñez Andres Felipe,Masculino,27,afbolanosn231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1018480603Bolanos_Nunez_Andres_Felipe
+1018506203,Medina Silva Astrid Valentina,Femenino,24,avmedinas222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1018506203Medina_Silva_Astrid_Valentina
+1193575328,Roa Ariza Maria Angelica,Femenino,19,maroaa221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1193575328Roa_Ariza_Maria_Angelica
+1088825929,Marin Foronda Shirley Yuliana,Femenino,17,symarinf222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1088825929Marin_Foronda_Shirley_Yuliana
+1034779341,Soler Parra Alison Alejandra,Femenino,16,alsolerp231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1034779341Soler_Parra_Alison_Alejandra
+1000338295,Rodríguez Janeiro Danna Michell,Femenino,20,dmrodriguezj222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1000338295Rodriguez_Janeiro_Danna_Michell
+1069302065,Torres Ocampo Andres Felipe,Masculino,18,aftorreso222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1069302065Torres_Ocampo_Andres_Felipe
+3050706,Mujica Aponte Sara Valentina,Femenino,19,svmujicaa221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,3050706Mujica_Aponte_Sara_Valentina
+1000350744,Perez Gaviria Maria Paula,Femenino,19,mpperezg222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000350744Perez_Gaviria_Maria_Paula
+1003520206,Perez Diaz Laura Melissa,Femenino,22,lmperzd231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1003520206Perez_Diaz_Laura_Melissa
+1070327375,Duran Sarmiento Jose David,Masculino,32,jddurans221@cen.edu.co,Bogotá,Sabatina,2023-1,3 Semestre,1070327375Duran_Sarmiento_Jose_David
+1031641792,Puerto Bermudez Sara Michelle,Femenino,18,smpuertob231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1031641792Puerto_Bermudez_Sara_Michelle
+1073158617,Gomez Otalvaro Carlos Eduardo,Masculino,19,cegomezo231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073158617Gomez_Otalvaro_Carlos_Eduardo
+1030685286,Delgado Cupa Francys Jackeline,Femenino,24,fjdelgadoc231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1030685286Delgado_Cupa_Francys_Jackeline
+1031165581,Carrillo Alvarado Yesica Natali,Femenino,26,yncarrilloa222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1031165581Carrillo_Alvarado_Yesica_Natali
+1192782808,Vargas Rodriguez Yosselin Valentina,Femenino,22,yvvargasr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1192782808Vargas_Rodriguez_Yosselin_Valentina
+1014248527,Rodriguez Rivera Camilo Andres,Masculino,29,carodriguezr231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1014248527Rodriguez_Rivera_Camilo_Andres
+1013107915,Cortes Sepulveda Laura Yireth,Femenino,17,lycortess231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1013107915Cortes_Sepulveda_Laura_Yireth
+1073503716,Rodriguez Velasco Martin Julian,Masculino,17,mjrodriguezv231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073503716Rodriguez_Velasco_Martin_Julian
+1070987647,Niño Salcedo Angie Carolina,Femenino,24,acninos231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1070987647Nino_Salcedo_Angie_Carolina
+1007538289,Rodriguez Lopez Lisa Vanneth,Femenino,22,lvrodriguezl231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1007538289Rodriguez_Lopez_Lisa_Vanneth
+1000726958,Herrera Perez Neylen Yuliana,Femenino,20,nyherrerap231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1000726958Herrera_Perez_Neylen_Yuliana
+1030520022,Rubiano Cardozo Lizeth Daniela,Femenino,19,ldrubianoc222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1030520022Rubiano_Cardozo_Lizeth_Daniela
+1033775824,Castaño Garcia Martin Alfonso,Masculino,28,macastanog222@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1033775824Castano_Garcia_Martin_Alfonso
+1193518044,Velandia Sierra Maria Alejandra,Femenino,20,mavelandias222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1193518044Velandia_Sierra_Maria_Alejandra
+1021664995,Herrera Zambrano Alison Dayane,Femenino,18,adherreraz231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1021664995Herrera_Zambrano_Alison_Dayane
+1028481617,Bayona Mojocoa Nicolas Andres,Masculino,16,ANBAYONAM231@CEN.EDU.CO,Bogotá,Diurna,2023-1,1 Semestre,1028481617Bayona_Mojocoa_Nicolas_Andres
+1104938671,Sanchez Delgado Salome,Femenino,17,ssanchezd231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1104938671Sanchez_Delgado_Salome
+1019149011,Rivera Reyes Gabriela,Femenino,23,griverr231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1019149011Rivera_Reyes_Gabriela
+1025525589,Melo Ochoa Natalia Sofia,Femenino,17,nsmeloo231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1025525589Melo_Ochoa_Natalia_Sofia
+1025525463,Reyes Rodriguez Michael Steven,Masculino,17,msreyesr221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1025525463Reyes_Rodriguez_Michael_Steven
+1000790499,Piña Garcia Geraldine,Femenino,23,gpinag231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000790499Pina_Garcia_Geraldine
+1075684903,Garzon Cordero Juan Camilo,Masculino,25,jcgarzonc192@cen.edu.co,Bogotá,Nocturna,2023-1,4 Semestre,1075684903Garzon_Cordero_Juan_Camilo
+1015475228,Baquero Sierra Jeny Vanessa,Femenino,24,jvbaqueros222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1015475228Baquero_Sierra_Jeny_Vanessa
+1108150163,Palencia Barreto Yureidis Lizeth,Femenino,19,ylpalenciab221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1108150163Palencia_Barreto_Yureidis_Lizeth
+1000954108,Izquierdo Riveros Lina Marcela,Femenino,21,lmizquierdor222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000954108Izquierdo_Riveros_Lina_Marcela
+1014298865,Pernett Romero Juan Angel,Masculino,24,JAPERNETTR231@CEN.EDU.CO,Bogotá,Diurna,2023-1,1 Semestre,1014298865Pernett_Romero_Juan_Angel
+1003510474,Gonzalez Garzon Paula Alejandra,Femenino,20,pagonzalezg221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1003510474Gonzalez_Garzon_Paula_Alejandra
+1053324065,Contreras Villamil Jhon Sebastian,Masculino,18,jscontrarasv231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1053324065Contreras_Villamil_Jhon_Sebastian
+1011086712,Ayala Dueñas Maria Paula,Femenino,17,mpayalad212@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1011086712Ayala_Duenas_Maria_Paula
+1023082804,Cortes Gomez Paula Alejandra,Femenino,18,pacortesg231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1023082804Cortes_Gomez_Paula_Alejandra
+1056507105,Ramos Ortiz Yorleidy Paola,Femenino,22,ypramoso222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1056507105Ramos_Ortiz_Yorleidy_Paola
+1019982353,Daza Rueda Valeria,Femenino,18,vdazar221@cen.edu.co,Bogotá,Sabatina,2023-1,3 Semestre,1019982353Daza_Rueda_Valeria
+1003577978,Garzon Sarmiento Nelson Fernando,Masculino,20,nfgarzons222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1003577978Garzon_Sarmiento_Nelson_Fernando
+1023367211,Orduña Barrero Yuly Stephania,Femenino,18,ysordunab222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1023367211Orduna_Barrero_Yuly_Stephania
+1018437808,Amaya Ayala Daniel Eduardo,Masculino,32,deamayaa201@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1018437808Amaya_Ayala_Daniel_Eduardo
+1000326129,Galindo Chacon Erika,Femenino,20,egalindoc221@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1000326129Galindo_Chacon_Erika
+1000991420,Rodriguez Riveros Nicols Juliana,Femenino,21,njrodriguezr231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1000991420Rodriguez_Riveros_Nicols_Juliana
+1026567371,Damascan Rojas Valentyn,Masculino,31,vdamascanr222@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1026567371Damascan_Rojas_Valentyn
+803154006032003,Godoy Baez Anthony Yoswuar,Masculino,19,aygodoy212@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,803154006032003Godoy_Baez_Anthony_Yoswuar
+1011091126,Camero Galvis Karen Lorena,Femenino,17,klcamerog231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1011091126Camero_Galvis_Karen_Lorena
+1000832564,Santacruz Pinzon Meredith Yuselly,Femenino,22,mysantacruzp212@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1000832564Santacruz_Pinzon_Meredith_Yuselly
+1034658917,Morales Moncada Ana Sofia,Femenino,17,asmoralesm231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034658917Morales_Moncada_Ana_Sofia
+1000380920,Arenas Orduz Valentina,Femenino,20,varenaso221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1000380920Arenas_Orduz_Valentina
+1015466085,Castillo Pinto Jorge Daniel,Masculino,26,jdcastillop222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1015466085Castillo_Pinto_Jorge_Daniel
+1022957103,Rozo Cruz Carlos Manuel,Masculino,33,cmrozoc231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1022957103Rozo_Cruz_Carlos_Manuel
+1076650489,Orozco Veloza Karol Vanesa,Femenino,16,kvorozcov231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1076650489Orozco_Veloza_Karol_Vanesa
+52018791,Valderrama Cardenas Lisbet,Femenino,53,lvalderramac212@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,52018791Valderrama_Cardenas_Lisbet
+1070987672,Barbosa Vargas Yeimmy Nathaly,Femenino,24,ynbarbosav212@cen.edu.co,Funza,Sabatina,2023-1,3 Semestre,1070987672Barbosa_Vargas_Yeimmy_Nathaly
+1022937589,Giraldo Bermudez Laura Vanessa,Femenino,17,lvgiraldob231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1022937589Giraldo_Bermudez_Laura_Vanessa
+1070976335,Alarcon Osorio Luz Marina,Femenino,26,lmalarcono231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070976335Alarcon_Osorio_Luz_Marina
+32890530,Rivera Martinez Candelaria Maria,Femenino,44,cmriveram231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,32890530Rivera_Martinez_Candelaria_Maria
+1000128488,Lancheros Urrego Angie Lorena,Femenino,20,allancherosu221@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1000128488Lancheros_Urrego_Angie_Lorena
+1031649349,Mier Arevalo Natalia Andrea,Femenino,16,namiera231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1031649349Mier_Arevalo_Natalia_Andrea
+1005367254,Villamil Riaños Cristian Camilo,Masculino,21,ccvillamilr222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1005367254Villamil_Rianos_Cristian_Camilo
+1030523004,Goenaga Callejas Daniel Felipe,Masculino,18,dfgoenagac222@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1030523004Goenaga_Callejas_Daniel_Felipe
+1000596376,Poveda Ruiz Estefania,Femenino,21,epovedar222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1000596376Poveda_Ruiz_Estefania
+1023364146,Peñuela Cobos Eimy Juliana,Femenino,18,ejpenuelac222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1023364146Penuela_Cobos_Eimy_Juliana
+1003510206,Jaime Peña Mariana,Femenino,20,mjaimep231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1003510206Jaime_Pena_Mariana
+1031801700,Beltran Zabala Briyith Lorena,Femenino,18,blbeltranz221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1031801700Beltran_Zabala_Briyith_Lorena
+1124071716,Rincon Mojica Einny Milena,Femenino,26,emrinconm231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1124071716Rincon_Mojica_Einny_Milena
+1014287729,Vides Perez Camilo Eduardo,Masculino,25,cevidesp192@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1014287729Vides_Perez_Camilo_Eduardo
+1069745083,Molano Perez Jeimmy Tatiana,Femenino,29,jtmolanop221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1069745083Molano_Perez_Jeimmy_Tatiana
+1026299673,Diaz Linares Natalia,Femenino,25,ndiazl231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1026299673Diaz_Linares_Natalia
+1046703730,Hernandez Gonzalez Loribeth Fernanda,Femenino,19,lfhernandezg221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1046703730Hernandez_Gonzalez_Loribeth_Fernanda
+1034396287,Urquijo Cuadros Karen Lorena,Femenino,19,klurquijoc231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034396287Urquijo_Cuadros_Karen_Lorena
+1073252638,Sarmiento Fuquen Maria Fernanda,Femenino,24,mfsarmientof222@cen.edu.co,Funza,Sabatina,2023-1,2 Semestre,1073252638Sarmiento_Fuquen_Maria_Fernanda
+1070387538,Hernandez Sierra Laura Alejandra,Femenino,16,lahernandezs231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070387538Hernandez_Sierra_Laura_Alejandra
+1021676108,Rosero Valenzuela Michel Vanesa,Femenino,15,mvroserov231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1021676108Rosero_Valenzuela_Michel_Vanesa
+1073249985,Zuquila Mican Yeimmi Natalia,Femenino,25,ynzuquilam231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1073249985Zuquila_Mican_Yeimmi_Natalia
+1007534920,Ballesteros Roa Miguel Angel,Masculino,19,maballesterosr231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1007534920Ballesteros_Roa_Miguel_Angel
+1016002899,Torres Garcia Laura Daniela,Femenino,17,ldtorresg221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1016002899Torres_Garcia_Laura_Daniela
+1070386916,Pulido Lopez Kimberly Lorena,Femenino,16,klpulidol231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070386916Pulido_Lopez_Kimberly_Lorena
+1012322541,Cruz Rodriguez Laura Valentina,Femenino,18,lvcruzr222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1012322541Cruz_Rodriguez_Laura_Valentina
+1192799482,Anacona Morera Yulieth Mayelin,Femenino,22,ymanaconam221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1192799482Anacona_Morera_Yulieth_Mayelin
+1073151871,Rodriguez Gutierrez Julieth Faisury,Femenino,18,jfrodriguezg222@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073151871Rodriguez_Gutierrez_Julieth_Faisury
+1020814151,Pachon Bustos Maria Paula,Femenino,26,mppachonb231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1020814151Pachon_Bustos_Maria_Paula
+1014181950,Bernal Castañeda Mauricio,Masculino,36,mbernalc222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1014181950Bernal_Castaneda_Mauricio
+1007589420,Naranjo Zamora Laura Natalia,Femenino,19,lnnaranjoz231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1007589420Naranjo_Zamora_Laura_Natalia
+1070942032,Ballen Rosero Melida Amparo,Femenino,19,maballenr221@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1070942032Ballen_Rosero_Melida_Amparo
+1073503963,Bohorquez Gamez Liseth Lorena,Femenino,17,llbohorquezg222@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073503963Bohorquez_Gamez_Liseth_Lorena
+1021392857,Diaz Silva Ana Maria,Femenino,18,amdiazs221@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1021392857Diaz_Silva_Ana_Maria
+1000462745,Novoa Sopo Juan Andres,Masculino,19,janovoas231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000462745Novoa_Sopo_Juan_Andres
+1077032254,Forero Garcia Danna Valentina,Femenino,18,dvforerog222@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1077032254Forero_Garcia_Danna_Valentina
+1010037564,Gonzalez Baron Daniela,Femenino,22,dgonzalezb222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1010037564Gonzalez_Baron_Daniela
+1000519288,Abril Rios Daniel Esteban,Masculino,20,deabrilr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000519288Abril_Rios_Daniel_Esteban
+1000285866,Barrantes Mendez Natalia,Femenino,19,nbarrantesm222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1000285866Barrantes_Mendez_Natalia
+1010042085,Vega Pinto Shirley Estefanny,Femenino,22,sevegap231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1010042085Vega_Pinto_Shirley_Estefanny
+1023162818,Vargas Lopez Paula Geraldine,Femenino,18,pgvargasl231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1023162818Vargas_Lopez_Paula_Geraldine
+1074344323,Mojica Forero Fabián Camilo,Masculino,17,fcmojicaf231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1074344323Mojica_Forero_Fabian_Camilo
+1000350688,Gutierrez Florez Jennifer Tatiana,Femenino,20,jtgutierrezf221@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000350688Gutierrez_Florez_Jennifer_Tatiana
+1000623745,Ramirez Beltran Stephanie Valentina,Femenino,20,svramirezb221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000623745Ramirez_Beltran_Stephanie_Valentina
+1001185943,Veloza Ticora Juliana Andrea,Femenino,20,javelozat222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1001185943Veloza_Ticora_Juliana_Andrea
+1074810778,Leguizamo Perez Paula Valentina,Femenino,16,pvleguizamop231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1074810778Leguizamo_Perez_Paula_Valentina
+1000589943,Ayala Mendoza Alejandra,Femenino,20,aayalam222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000589943Ayala_Mendoza_Alejandra
+52830348,Franco Restrepo Isabel Natalia,Femenino,42,infrancor321@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,52830348Franco_Restrepo_Isabel_Natalia
+1233901291,Espinosa Gutierrez Laura Alejandra,Femenino,24,laespinosag222@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1233901291Espinosa_Gutierrez_Laura_Alejandra
+1034397360,Luna Lopez Catalina,Femenino,18,clunal231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034397360Luna_Lopez_Catalina
+1025525392,Sanabria Guatava Samuel Esteban,Masculino,17,sesanabriag222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1025525392Sanabria_Guatava_Samuel_Esteban
+1000592903,Gomez Zambrano Jesica Nathalia,Femenino,19,jngomezz222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000592903Gomez_Zambrano_Jesica_Nathalia
+1019989241,Naranjo Henao Maria Alejandra,Femenino,16,manaranjoh231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1019989241Naranjo_Henao_Maria_Alejandra
+1070385523,Marín Acero Julian David,Masculino,18,jdmarina231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070385523Marin_Acero_Julian_David
+1010051202,Rodriguez Manosalva Ana Sofia,Femenino,19,asrodriguezm222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1010051202Rodriguez_Manosalva_Ana_Sofia
+1000604496,Cortes Moreno Maria Paula,Femenino,19,mpcortesm222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000604496Cortes_Moreno_Maria_Paula
+1011087458,Garzon Altuzarra Laura Juliana,Femenino,0,ljaltuzarrag231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1011087458Garzon_Altuzarra_Laura_Juliana
+1073255038,Gutierrez Jojoa Karen Dayanna,Femenino,23,kdgutierrezj231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1073255038Gutierrez_Jojoa_Karen_Dayanna
+1032797149,Garcia Bernal Nicoll Juliana,Femenino,18,njgarciab222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1032797149Garcia_Bernal_Nicoll_Juliana
+1019987866,Espindola Serrato Juana Valentina,Femenino,17,jvespindolas231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1019987866Espindola_Serrato_Juana_Valentina
+1000722306,Oviedo Bolaños Franky Julian,Masculino,23,fjoviedob222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000722306Oviedo_Bolanos_Franky_Julian
+1022935794,Arevalo Yama Karen Stefanny,Femenino,17,skarevaloy231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1022935794Arevalo_Yama_Karen_Stefanny
+1093293492,Paredes Muñoz Julieth Tatiana,Femenino,18,jtparedesm222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1093293492Paredes_Munoz_Julieth_Tatiana
+1074810380,Navarrete Plaza Estefania,Femenino,17,enavarretep231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1074810380Navarrete_Plaza_Estefania
+1073152070,Molano Guevara Deisy Tatiana,Femenino,18,dtmolanog231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073152070Molano_Guevara_Deisy_Tatiana
+1000468633,Gomez Mendez Charly Alejandro,Masculino,22,chagomezm231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000468633Gomez_Mendez_Charly_Alejandro
+1073508458,Castillo Melo Ingrith Ximena,Femenino,32,ixcastillom231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1073508458Castillo_Melo_Ingrith_Ximena
+1005248918,Gordillo Castillo Diana Marcela,Femenino,20,dmgordilloc231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1005248918Gordillo_Castillo_Diana_Marcela
+1025526663,Rodriguez Monsalve Laura Natali,Masculino,17,lnrodriguezm221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1025526663Rodriguez_Monsalve_Laura_Natali
+1122921309,Villirreal Tique Karen Dayana,Femenino,17,kdvillarreal231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1122921309Villirreal_Tique_Karen_Dayana
+1076626262,Gutierrez Gonzalez Julian,Masculino,24,jgutierrezg231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1076626262Gutierrez_Gonzalez_Julian
+1015998363,Moreno Moreno Sebastian Tomas,Masculino,18,stmorenom222@cen.edu.co,Funza,Sabatina,2023-1,2 Semestre,1015998363Moreno_Moreno_Sebastian_Tomas
+1000252875,Espinosa Aponte Angie Caterine,Femenino,21,acespinosaa231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000252875Espinosa_Aponte_Angie_Caterine
+1003905166,Ramos Farfan Luisa Maria,Femenino,21,lmramosf231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1003905166Ramos_Farfan_Luisa_Maria
+1073513072,Cerinza Cortes Ana Maria,Femenino,30,amcerinzac231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1073513072Cerinza_Cortes_Ana_Maria
+1001216343,Jimenez Sanchez Erika Vanessa,Femenino,22,evjimenezs231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1001216343Jimenez_Sanchez_Erika_Vanessa
+1010113543,Mendoza Guancha Yeferson Exti,Masculino,22,yemendozag222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1010113543Mendoza_Guancha_Yeferson_Exti
+1003535378,Rodriguez Bernal Karen Dayanna,Femenino,21,kdrodriguezb231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1003535378Rodriguez_Bernal_Karen_Dayanna
+1091354716,Palacios Sanchez Sandra Jimena,Femenino,20,sjpalacioss231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1091354716Palacios_Sanchez_Sandra_Jimena
+1011088331,Quintero Hernandez Gabriel Ricardo,Masculino,17,grquinteroh231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1011088331Quintero_Hernandez_Gabriel_Ricardo
+1123730538,Contreras Vega Johan Yobany,Masculino,17,jycontrerasv231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1123730538Contreras_Vega_Johan_Yobany
+1001298304,Mendez Lara Paula Valentina,Femenino,21,pvmendezl231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1001298304Mendez_Lara_Paula_Valentina
+1002817767,Giraldo Villa Ingrid Johana,Femenino,0,ijgiraldov@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1002817767Giraldo_Villa_Ingrid_Johana
+1003741773,Cruz Cortes Danna Valentina,Femenino,19,dvcruzc231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1003741773Cruz_Cortes_Danna_Valentina
+1032412552,Triana Martinez Carolina,Femenino,16,ctrianam231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1032412552Triana_Martinez_Carolina
+52961338,Gonzalez Rojas Laura Natalia,Femenino,40,lngonzalezr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,52961338Gonzalez_Rojas_Laura_Natalia
+1004006622,Gutierrez Diaz Maria Paula,Femenino,24,mpgutierrezd231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1004006622Gutierrez_Diaz_Maria_Paula
+1034312441,Morantes Moreno Zaida Mabel,Femenino,18,zmmorantesm231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034312441Morantes_Moreno_Zaida_Mabel
+1001044496,Montealegre Nuñez Yuliana,Femenino,21,ymontealegren2131@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1001044496Montealegre_Nunez_Yuliana
+1055272022,Florez Acosta Ruby Daniela,Femenino,19,RDFLOREZA231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1055272022Florez_Acosta_Ruby_Daniela
+1121824739,Gomes Lopez Stiven Yorman,Masculino,18,sygomesl231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1121824739Gomes_Lopez_Stiven_Yorman
+1030605602,Balcazar Molina Brenda Dalliana,Femenino,31,bdbalzarm231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1030605602Balcazar_Molina_Brenda_Dalliana
+1054540401,Brausin Ruiz Heidy Yulieth,Femenino,18,hybrausinr231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1054540401Brausin_Ruiz_Heidy_Yulieth
+1007404076,Solano Mendez Kevin Andres,Masculino,24,kasolanom222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1007404076Solano_Mendez_Kevin_Andres
+1073230792,Pinzon Rincon Karol Michele,Femenino,18,kmpinzonr221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1073230792Pinzon_Rincon_Karol_Michele
+1032797434,Villalba Parrado Edison Stiven,Masculino,18,esvillalbap221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1032797434Villalba_Parrado_Edison_Stiven
+1019602852,Rodriguez Forero Juan Andres,Masculino,18,jarodriguezf222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1019602852Rodriguez_Forero_Juan_Andres
+1001190882,Vera Rodriguez Juan Esteban,Masculino,22,jeverar231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1001190882Vera_Rodriguez_Juan_Esteban
+1073598418,Guzman Motta Angie Lorena,Femenino,18,alguzmanm231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073598418Guzman_Motta_Angie_Lorena
+1023364983,Jimenez Garavito Sara,Femenino,18,sjimenezg231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1023364983Jimenez_Garavito_Sara
+1001198781,Guevara Castañeda Nicol Yuliana,Femenino,22,nyguevarac201@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1001198781Guevara_Castaneda_Nicol_Yuliana
+1023163292,Vega Urrego Laura Valentina,Femenino,17,lvvegau222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1023163292Vega_Urrego_Laura_Valentina
+1016006435,Gonzalez Bernal Maria Camila,Femenino,17,mcgonzalezb231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1016006435Gonzalez_Bernal_Maria_Camila
+1073231339,Peñuela Durango Kelly Milena,Femenino,17,kmpenuelad231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073231339Penuela_Durango_Kelly_Milena
+1015483746,Galindo Ortiz Jennifer Tatiana,Femenino,23,JTGALINDOO231@CEN.EDU.CO,Bogotá,Diurna,2023-1,1 Semestre,1015483746Galindo_Ortiz_Jennifer_Tatiana
+1025140985,Bello Suarez Kevin Alexander,Masculino,18,kabellos222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1025140985Bello_Suarez_Kevin_Alexander
+1070966032,Rueda Vanegas Cristian Leonardo,Masculino,30,clruedav231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1070966032Rueda_Vanegas_Cristian_Leonardo
+1004623538,Ramirez Maya Mayerli Yobana,Femenino,21,myramirezm231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1004623538Ramirez_Maya_Mayerli_Yobana
+1001066845,Avila Silva Juan David,Masculino,19,jdavilas222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1001066845Avila_Silva_Juan_David
+1000159596,Herrera Ramos Linda Lucia,Femenino,20,llherrerar222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000159596Herrera_Ramos_Linda_Lucia
+1000121054,Pachon Silva Laura Valentina,Femenino,21,lvpachons231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1000121054Pachon_Silva_Laura_Valentina
+1001092484,Rodriguez Uriza Sara Gabriela,Femenino,20,sgrodriguezu222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1001092484Rodriguez_Uriza_Sara_Gabriela
+1010160941,Gama Moreno Leonardo,Masculino,36,LGAMAM231@CEN.EDU.CO,Bogotá,Diurna,2023-1,1 Semestre,1010160941Gama_Moreno_Leonardo
+1023981152,Lugo Gomez Leidy Dayana,Femenino,24,ldlugog221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1023981152Lugo_Gomez_Leidy_Dayana
+1033098217,Buitrago Guio Laura Sofia,Femenino,17,lsbuitragog231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1033098217Buitrago_Guio_Laura_Sofia
+1077032081,López Galindo Danna Katherine,Femenino,18,dklopezg231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1077032081Lopez_Galindo_Danna_Katherine
+1015995680,Alvarez Contreras Hilson David,Masculino,18,hdalvarezc221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1015995680Alvarez_Contreras_Hilson_David
+1073504097,Forero Rodríguez Paula Michelle,Femenino,17,pmforeror231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073504097Forero_Rodriguez_Paula_Michelle
+1011083704,Barragan Niño Ylan Samantha,Femenino,17,ysbarragann231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1011083704Barragan_Nino_Ylan_Samantha
+1029980758,Medina Garcia Angelica,Femenino,17,amedinag212@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1029980758Medina_Garcia_Angelica
+1006556893,Rodriguez Rincon Paula Vanessa,Femenino,19,pvrodriguezr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1006556893Rodriguez_Rincon_Paula_Vanessa
+1029220403,Calderon Giraldo Catalina,Femenino,18,ccalderong222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1029220403Calderon_Giraldo_Catalina
+1070961028,Cristancho Peralta Lina Lizeth,Femenino,31,llcristanchop231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1070961028Cristancho_Peralta_Lina_Lizeth
+1034576479,Balaguera Peña Ana Maria,Femenino,18,ambalaguerap231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034576479Balaguera_Pena_Ana_Maria
+1105793154,Rincon Aguirre Luis Miguel,Masculino,23,lmrincona222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1105793154Rincon_Aguirre_Luis_Miguel
+1021668800,Chala Jaimes Laura Sofia,Femenino,17,lschalaj222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1021668800Chala_Jaimes_Laura_Sofia
+1014476054,Acosta Aldana Brigitte Alejandra,Femenino,19,baacostaa222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1014476054Acosta_Aldana_Brigitte_Alejandra
+1192797193,Robledo Moya Deisy Alejandra,Femenino,22,darobledom221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1192797193Robledo_Moya_Deisy_Alejandra
+1083011198,Melendez Lasala Adriana Patricia,Femenino,26,apmelendezl231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1083011198Melendez_Lasala_Adriana_Patricia
+1006538189,Cardozo Floriano Dayra Katherine,Femenino,20,dkcardozof222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1006538189Cardozo_Floriano_Dayra_Katherine
+1014596095,Rincon Castellanos Juanita,Femenino,18,jrinconc231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1014596095Rincon_Castellanos_Juanita
+1031541141,Lozada Posse Mariana,Femenino,16,mlozadap231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1031541141Lozada_Posse_Mariana
+1027526012,Urquijo Castro Marlly Katherine,Femenino,17,mkurquijoc212@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1027526012Urquijo_Castro_Marlly_Katherine
+1003739160,Gonzalez Garay Julian Esteban,Masculino,21,jegonzalezg222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1003739160Gonzalez_Garay_Julian_Esteban
+1072188820,Gutierrez Rodriguez Luisa Dayana,Femenino,17,ldgutierrezr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1072188820Gutierrez_Rodriguez_Luisa_Dayana
+1022442476,Diaz Latorre Silvia Valentina,Femenino,23,svdiazl222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1022442476Diaz_Latorre_Silvia_Valentina
+1070945686,Ramirez Arevalo Brayan Stiven,Masculino,18,bsramireza221@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070945686Ramirez_Arevalo_Brayan_Stiven
+1000573972,Tellez Franco Maria Valentina,Femenino,20,mvtellezf212@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1000573972Tellez_Franco_Maria_Valentina
+1012461091,Mendez Segura Kevin Mauricio,Masculino,23,kmmendezs221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1012461091Mendez_Segura_Kevin_Mauricio
+80021520,Orjuela Ocampo Diego Andres,Masculino,44,daorjuelao231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,80021520Orjuela_Ocampo_Diego_Andres
+1103738431,Abad Narvaez Karoll Andrea,Femenino,18,kaabadn221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1103738431Abad_Narvaez_Karoll_Andrea
+1031803332,Medina Nuñez Johan Sebastian,Masculino,18,jsmedinam222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1031803332Medina_Nunez_Johan_Sebastian
+1000123720,Alba Cañadulce Lizeth Tatiana,Femenino,21,ltalbac222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000123720Alba_Canadulce_Lizeth_Tatiana
+1014303861,Chaparro Sanchez Juan David,Masculino,23,jdchaparros222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1014303861Chaparro_Sanchez_Juan_David
+1034656035,Torres Sierra Paula Andrea,Femenino,19,patorress222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1034656035Torres_Sierra_Paula_Andrea
+1000519395,Colorado Lara Angel Esteban,Masculino,20,aecoloradol222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000519395Colorado_Lara_Angel_Esteban
+1000126776,Blanco Bueno Maria Alejandra,Femenino,20,mablancob221@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000126776Blanco_Bueno_Maria_Alejandra
+1011085689,Huerfa Diaz Naylan,Femenino,17,nhuerfand231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1011085689Huerfa_Diaz_Naylan
+1000573233,Nopia Coca Angie Paola,Femenino,21,apnopiac212@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1000573233Nopia_Coca_Angie_Paola
+1019762094,Angel Parra Sofia,Femenino,19,sangelp212@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1019762094Angel_Parra_Sofia
+1024472199,Gomez Castro Monica Tatiana,Femenino,35,mtgomezc231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1024472199Gomez_Castro_Monica_Tatiana
+1192773990,Jimenez Barbosa Dahian Tatiana,Femenino,21,dtjimenezb222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1192773990Jimenez_Barbosa_Dahian_Tatiana
+1069306801,Aguilera Vergara Sergio,Masculino,23,saguilerav222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1069306801Aguilera_Vergara_Sergio
+1001047245,Goenaga Callejas Kevin Stiben,Masculino,20,ksgoenagac201@cen.edu.co,Funza,Sabatina,2023-1,2 Semestre,1001047245Goenaga_Callejas_Kevin_Stiben
+1023162482,Maldonado Rincon Karen Alejandra,Femenino,18,kamaldonadob222@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1023162482Maldonado_Rincon_Karen_Alejandra
+1193106567,Rincon Baquero Laura Viviana,Femenino,19,lvrinconb222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1193106567Rincon_Baquero_Laura_Viviana
+1000462206,Fuquen Lara Daniela Alejandra,Femenino,19,dafuquenl231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000462206Fuquen_Lara_Daniela_Alejandra
+1073244031,Chavarro Urrego Johann Nicolas,Masculino,27,jnchavarrou201@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1073244031Chavarro_Urrego_Johann_Nicolas
+1023026406,Ortiz Mendez Laura Camila,Femenino,24,lcortizm221@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1023026406Ortiz_Mendez_Laura_Camila
+1001272276,Lopez Blanco Lina Katherine,Femenino,21,lklopezb231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1001272276Lopez_Blanco_Lina_Katherine
+1007410276,Luisa Fernanda Peralta Pastrana,Femenino,19,lfperaltap231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1007410276Luisa_Fernanda_Peralta_Pastrana
+1000033560,Roa Carranza Luisa Fernanda,Femenino,21,lfroac222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000033560Roa_Carranza_Luisa_Fernanda
+1010237334,Hurtado Giron Paula Alejandra,Femenino,25,pahurtadog231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1010237334Hurtado_Giron_Paula_Alejandra
+1034777920,Rodriguez Cortes Yojan Alexis,Masculino,18,yarodriguezc231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1034777920Rodriguez_Cortes_Yojan_Alexis
+1074344156,Rodriguez Puentes Karen Viviana,Femenino,18,kvrodriguezp222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1074344156Rodriguez_Puentes_Karen_Viviana
+1000760330,Gomez Orozco Karen Melissa,Femenino,20,kmgomezm221@cen.edu.co,Bogotá,Sabatina,2023-1,3 Semestre,1000760330Gomez_Orozco_Karen_Melissa
+1000591825,Morales Tellez Jorge Andres,Masculino,21,jamoralest222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000591825Morales_Tellez_Jorge_Andres
+1023368680,Sogamoso Romero Valeria,Femenino,17,vsogamosor231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1023368680Sogamoso_Romero_Valeria
+1001051113,Hurtado Ospina Maria Jose,Femenino,19,mjhurtadoo231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1001051113Hurtado_Ospina_Maria_Jose
+1000784211,Gil Barbosa Briyid Yuliana,Femenino,21,bygilb221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1000784211Gil_Barbosa_Briyid_Yuliana
+1074344230,Rujano Lopez Karen Valentina,Femenino,18,kvrujanol231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1074344230Rujano_Lopez_Karen_Valentina
+1073503439,Cely Piñeros Stephanny,Femenino,17,scelyp231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073503439Cely_Pineros_Stephanny
+1016942444,Cortes Moreno Katherine,Femenino,19,kcortesm222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1016942444Cortes_Moreno_Katherine
+1000352835,Cardozo Pineda David Andres,Masculino,20,dacardozop221@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1000352835Cardozo_Pineda_David_Andres
+1058842762,Herrera Caicedo Luisa Fernanda,Femenino,17,lfherrerac231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1058842762Herrera_Caicedo_Luisa_Fernanda
+1022979334,Reyes Sanchez Ingrid Carolina,Femenino,30,icreyess222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1022979334Reyes_Sanchez_Ingrid_Carolina
+1000227100,Hernadez Rodriguez Luisa Fernanda,Femenino,21,lfhernadezr231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1000227100Hernadez_Rodriguez_Luisa_Fernanda
+1025526135,Garay Franco Angie Paola,Femenino,17,apgarayf231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1025526135Garay_Franco_Angie_Paola
+1002524913,González Peña Yeimy Indira,Femenino,20,yigonzalezp231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1002524913Gonzalez_Pena_Yeimy_Indira
+1007671228,Cardoso Manjarrez Natalia,Femenino,23,ncardosom231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1007671228Cardoso_Manjarrez_Natalia
+1007861234,Montes Poveda Nicolas Mateo,Masculino,22,nmmontesp222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1007861234Montes_Poveda_Nicolas_Mateo
+1000473048,Venegas Garcia Laura Camila,Femenino,20,lcvanegasg221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000473048Venegas_Garcia_Laura_Camila
+1072643092,Davila Meneses Julian Andres,Masculino,17,jadavilam231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1072643092Davila_Meneses_Julian_Andres
+1073150620,Bernal Sarmiento Luna Nikoll,Femenino,18,lnbernals222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1073150620Bernal_Sarmiento_Luna_Nikoll
+1001310598,Velez Cardenas Maria Alejandra,Femenino,19,mavelezc222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1001310598Velez_Cardenas_Maria_Alejandra
+1072645107,Jiménez Jiménez Sarah Sofia,Femenino,17,ssjimenezj231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1072645107Jimenez_Jimenez_Sarah_Sofia
+1000320764,Cuchia Chitiva Andres Raul,Masculino,20,arcuchiac221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1000320764Cuchia_Chitiva_Andres_Raul
+1011081966,Arevalo Satizabal Samanta,Femenino,17,sarevalos222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1011081966Arevalo_Satizabal_Samanta
+1032484522,Beltran Gutierrez Camilo Antonio,Masculino,26,cabeltrang222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1032484522Beltran_Gutierrez_Camilo_Antonio
+1032381276,Rojas Morales Karen Natalia,Femenino,18,knrojasm221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1032381276Rojas_Morales_Karen_Natalia
+1003691006,Castañeda Abril Julian Andres,Masculino,20,jacastanedaa222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1003691006Castaneda_Abril_Julian_Andres
+1001061268,Sanchez Rodriguez Lized Dayana,Femenino,20,LDSANCHEZR231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1001061268Sanchez_Rodriguez_Lized_Dayana
+1000853886,Pinzon Castillo Nicol Geraldin,Femenino,23,ngpinzonc231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000853886Pinzon_Castillo_Nicol_Geraldin
+1015998020,Solano Ortiz Lina Natalia,Femenino,18,lnsolanoo221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1015998020Solano_Ortiz_Lina_Natalia
+1000777323,Amortegui Gutierrez Leidy Carolina,Femenino,21,lcamorteguig231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000777323Amortegui_Gutierrez_Leidy_Carolina
+1022443317,Fernandez Lopez Sharon Valentina,Femenino,23,svfernandezl222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1022443317Fernandez_Lopez_Sharon_Valentina
+35534670,Santafe Vigoya Maria Encarnacion,Femenino,41,mesantafev212@cen.edu.co,Funza,Sabatina,2023-1,3 Semestre,35534670Santafe_Vigoya_Maria_Encarnacion
+52350082,Mora Vega Claudia Patricia,Femenino,45,cpmorav231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,52350082Mora_Vega_Claudia_Patricia
+1000468838,Vega Ocampo Alizon Yeraldin,Femenino,21,ayvegao221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1000468838Vega_Ocampo_Alizon_Yeraldin
+1000457769,Diaz Susatama Sammy Valentina,Femenino,22,svdiaz212@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1000457769Diaz_Susatama_Sammy_Valentina
+1005929541,Morales Escobar Luisa Fernanda,Femenino,22,lfmoralese231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1005929541Morales_Escobar_Luisa_Fernanda
+1014177808,Romero Galvan Isis Mailena,Femenino,18,imromerog222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1014177808Romero_Galvan_Isis_Mailena
+1003741990,Garzon Soto Claudia Alejandra,Femenino,20,cagarzons222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1003741990Garzon_Soto_Claudia_Alejandra
+1001276023,Cangrejo Robayo Heidy Tatiana,Femenino,19,htcangrejor221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1001276023Cangrejo_Robayo_Heidy_Tatiana
+1014662161,Rodriguez Osorio Luisa Fernanda,Femenino,16,lfrodriguezo231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1014662161Rodriguez_Osorio_Luisa_Fernanda
+1011320795,Toloza Mogollon Lina Maria,Femenino,18,lmtolosam231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1011320795Toloza_Mogollon_Lina_Maria
+1016003239,Maldonado Buitrago Brahian Stiven,Masculino,17,bsmaldonadob221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1016003239Maldonado_Buitrago_Brahian_Stiven
+1001043451,Gomez Ochoa Bibian Gisselle,Femenino,21,bggomezo222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1001043451Gomez_Ochoa_Bibian_Gisselle
+1074344162,Benavides Dagua Derly Lorena,Femenino,18,dlbenavidesd222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1074344162Benavides_Dagua_Derly_Lorena
+1002697208,Alarcon Martinez Juan Sebastian,Masculino,25,jsalarconm222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1002697208Alarcon_Martinez_Juan_Sebastian
+52916284,Moreno Millan Diana Paola,Femenino,38,dpmorenom231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,52916284Moreno_Millan_Diana_Paola
+1028860023,Rojas Santos Vanessa,Femenino,18,vrojass222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1028860023Rojas_Santos_Vanessa
+1003521258,Farfan Ordoñez Jorge Enrique,Masculino,21,jefarfano221@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1003521258Farfan_Ordonez_Jorge_Enrique
+1076650247,Polanco Guzman July Tatiana,Femenino,16,jtpolancog231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1076650247Polanco_Guzman_July_Tatiana
+1071162342,Aya Amortegui Diana Milena,Femenino,18,dmayaa222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1071162342Aya_Amortegui_Diana_Milena
+3143829,Rodriguez Leon Julio Enrique,Masculino,26,jerodriguezl231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,3143829Rodriguez_Leon_Julio_Enrique
+1003567217,Argote Gonzalez Carol Michell,Femenino,20,cmargoteg221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1003567217Argote_Gonzalez_Carol_Michell
+1085906359,Suarez Paez Nubia Katerine,Femenino,17,nksuarezp321@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1085906359Suarez_Paez_Nubia_Katerine
+1019990302,Clavijo Rodriguez Karol Tatiana,Femenino,16,ktclavijor231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1019990302Clavijo_Rodriguez_Karol_Tatiana
+1072497392,Rodriguez Zarate Laura Gineth,Femenino,24,lgrodriguezz221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1072497392Rodriguez_Zarate_Laura_Gineth
+1000347152,Yela Ballen Leidy Alexandra,Femenino,22,layelab222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1000347152Yela_Ballen_Leidy_Alexandra
+1014658791,Moreno Bernal Andres David,Masculino,18,admorenob221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1014658791Moreno_Bernal_Andres_David
+1070384734,Galindo Pacheco Laura Tatiana,Femenino,18,ltgalindop231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070384734Galindo_Pacheco_Laura_Tatiana
+1010108442,Fajardo Carranza David Santiago,Masculino,22,dsfajardoc201@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1010108442Fajardo_Carranza_David_Santiago
+1000952071,Rojas Jaimes Nicole Yiseth,Femenino,19,nyrojasj222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000952071Rojas_Jaimes_Nicole_Yiseth
+1024464726,Lozano Bonilla Nicol Daniela,Femenino,18,ndlozanob223@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1024464726Lozano_Bonilla_Nicol_Daniela
+1027400546,Gonzalez Rodriguez Danna Carolina,Femenino,18,dcgonzalezr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1027400546Gonzalez_Rodriguez_Danna_Carolina
+1007902154,Varela Moya Kendry Jose,Femenino,22,kjvarelam231@cen.edu.co,Funza,Sabatina,2023-1,1 Semestre,1007902154Varela_Moya_Kendry_Jose
+1128184555,Ramos Barraza Nasly,Femenino,20,nramosb212@cen.edu.co,Bogotá,Diurna,2023-1,4 Semestre,1128184555Ramos_Barraza_Nasly
+1025523401,Quesada Mendoza Karen Julieth,Femenino,18,kjquesadam222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1025523401Quesada_Mendoza_Karen_Julieth
+1007352014,Ramirez Garnica Valeria Alejandra,Femenino,22,varamirezg222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1007352014Ramirez_Garnica_Valeria_Alejandra
+1000690743,Amortegui Gutierrez Johan Alexis,Masculino,22,jamorteguig231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000690743Amortegui_Gutierrez_Johan_Alexis
+1069715232,Cardenas Molina Yeison Farid,Masculino,18,YFCARDENASM222@CEN.EDU.CO,Bogotá,Diurna,2023-1,2 Semestre,1069715232Cardenas_Molina_Yeison_Farid
+1003510250,Morales Riaño Laura Daniela,Femenino,20,ldmoralesr212@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1003510250Morales_Riano_Laura_Daniela
+1014737513,Cubillos Amaya Ana Maria,Femenino,18,amcubillosa222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1014737513Cubillos_Amaya_Ana_Maria
+1002608976,Tibaduiza Niño Nicol Dahiana,Femenino,19,ndtibaduizan222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1002608976Tibaduiza_Nino_Nicol_Dahiana
+1021665511,Sarmiento Ramirez Julieth Valeria,Femenino,18,jvsarmientor222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1021665511Sarmiento_Ramirez_Julieth_Valeria
+1071628382,Beltran Rincon Daniel Felipe,Masculino,18,dfbeltranr231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1071628382Beltran_Rincon_Daniel_Felipe
+53164657,Lamus Alvarez Martha Patricia,Femenino,39,mplamusa231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,53164657Lamus_Alvarez_Martha_Patricia
+1007405408,Romero Cubillos Karen Juliana,Femenino,19,kjromeroc222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1007405408Romero_Cubillos_Karen_Juliana
+1019985521,Niño Matallana Samuel,Masculino,17,sninom221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1019985521Nino_Matallana_Samuel
+1019602041,Amezquita Barrera Diana Alexandra,Femenino,19,daamezquitab221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1019602041Amezquita_Barrera_Diana_Alexandra
+1004268786,Perdomo Triana Yaritza Yuliana,Femenino,22,YYPERDOMOT231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1004268786Perdomo_Triana_Yaritza_Yuliana
+1007538508,Patiño Mateus Brenda Vanesa,Femenino,22,bvpatinom222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1007538508Patino_Mateus_Brenda_Vanesa
+1193107424,Romero Rojas Maria Jose,Femenino,20,mjromeror212@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1193107424Romero_Rojas_Maria_Jose
+1073523040,Mogollon Carvajal Nataly Vanesa,Femenino,25,nvmogollonc221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1073523040Mogollon_Carvajal_Nataly_Vanesa
+1003740298,Torres Hortua Angie Paola,Femenino,20,aptorresh231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1003740298Torres_Hortua_Angie_Paola
+1019987269,Bejarano Morales Nicolas,Masculino,17,nbejaranom231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1019987269Bejarano_Morales_Nicolas
+1077721701,Parra Trujillo Nicol Dayana,Femenino,18,ndparrat222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1077721701Parra_Trujillo_Nicol_Dayana
+1049019726,Vargas Rincon Zharith Juliana,Femenino,17,zjvargasr222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1049019726Vargas_Rincon_Zharith_Juliana
+1001348092,Quijano Peralta Laura Camila,Femenino,20,lcquijanop222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1001348092Quijano_Peralta_Laura_Camila
+1013107059,Cifuentes Rueda Valentina,Femenino,17,vcifuentesr231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1013107059Cifuentes_Rueda_Valentina
+1023033824,Lara Fandiño Julian Steven,Masculino,24,jslaraf212@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1023033824Lara_Fandino_Julian_Steven
+1028660463,Salazar Perilla Juan Diego,Masculino,18,jdsalazarp212@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1028660463Salazar_Perilla_Juan_Diego
+1064982796,Bolanos Rodriguez Sonia Maria,Femenino,20,SMBOLANOSR231@CEN.EDU.CO,Bogotá,Diurna,2023-1,1 Semestre,1064982796Bolanos_Rodriguez_Sonia_Maria
+1031804715,Garzon Guevara Ana Catalina,Femenino,17,acgarzong231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1031804715Garzon_Guevara_Ana_Catalina
+1028861076,Rodriguez Castro Ailin Gabriela,Femenino,16,agrodriguezc231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1028861076Rodriguez_Castro_Ailin_Gabriela
+1003691230,Ojeda Vanegas Dayana Alexandra,Femenino,19,daojedav222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1003691230Ojeda_Vanegas_Dayana_Alexandra
+1073163025,Rodriguez Molina Erik Andres,Masculino,30,earodriguezm231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1073163025Rodriguez_Molina_Erik_Andres
+1014738812,Arevalo Romero Jessica Paola,Femenino,17,jparevalor222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1014738812Arevalo_Romero_Jessica_Paola
+1024478853,Muñoz Vargas Oscar Enrique,Masculino,35,oemunozv231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1024478853Munoz_Vargas_Oscar_Enrique
+1028400170,Londoño Pedraza Paula Lorena,Femenino,17,pllondonop231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1028400170Londono_Pedraza_Paula_Lorena
+1000719932,Castañeda Vargas Sara,Femenino,19,scastanedav222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000719932Castaneda_Vargas_Sara
+1021663082,Ramos Morales George Santiago,Masculino,18,gsramoss221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1021663082Ramos_Morales_George_Santiago
+1022992929,Salamanca Paez Magda Julieth,Femenino,29,mjsalamancap231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1022992929Salamanca_Paez_Magda_Julieth
+1001117921,Triviño Cuervo Laura Valentina,Femenino,20,lvtrivinoc222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1001117921Trivino_Cuervo_Laura_Valentina
+1025141181,Correa Sierra Sofia,Femenino,18,scorreas231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1025141181Correa_Sierra_Sofia
+1070329777,Patron Petro Iris Sofia,Femenino,29,ispatronp231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1070329777Patron_Petro_Iris_Sofia
+1000699277,Melo Parra Tannia Camila,Femenino,21,tcmelop231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000699277Melo_Parra_Tannia_Camila
+1071578439,Ruiz Virguez Niyired,Femenino,17,nruizv231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1071578439Ruiz_Virguez_Niyired
+26891265,Dominguez Rincon Rafael Alejandro De Jesus,Masculino,25,radominguezr221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,26891265Dominguez_Rincon_Rafael_Alejandro_De_Jesus
+1073238367,Aguilera Peña Albeiro Alexander,Masculino,31,aaaguilerap192@cen.edu.co,Bogotá,Nocturna,2023-1,4 Semestre,1073238367Aguilera_Pena_Albeiro_Alexander
+1015472722,Restrepo Cabrera Ana Karina,Femenino,25,akrestrepoc222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1015472722Restrepo_Cabrera_Ana_Karina
+1140890702,Rodriguez Pabon Natalia Andrea,Femenino,26,narodriguezp231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1140890702Rodriguez_Pabon_Natalia_Andrea
+1013669048,Ceron Briceño Elizabeth,Femenino,26,eceronb231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1013669048Ceron_Briceno_Elizabeth
+1001204791,Peralta Mojica Sara Jireth,Femenino,21,sjperaltam231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1001204791Peralta_Mojica_Sara_Jireth
+1073526163,Parra Sanchez Dayanna Alejandra,Femenino,24,daparras231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073526163Parra_Sanchez_Dayanna_Alejandra
+1016947161,Salazar Agudelo Zara Julitza,Femenino,17,zjsalazara231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1016947161Salazar_Agudelo_Zara_Julitza
+1000383028,Daza Daza Karina Valeria,Femenino,21,kvdazad222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000383028Daza_Daza_Karina_Valeria
+1023364039,Neira Ramirez Juan Manuel,Masculino,18,jmneirar221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1023364039Neira_Ramirez_Juan_Manuel
+1003578205,Baez Garzon Yinna Carolina,Femenino,21,ycbaezg231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1003578205Baez_Garzon_Yinna_Carolina
+1014291364,Palacios Rayo Evelyn Valentina,Femenino,25,EVPALACIOSR231@CEN.EDU.CO,Bogotá,Sabatina,2023-1,1 Semestre,1014291364Palacios_Rayo_Evelyn_Valentina
+1032798797,Ramos Ramirez Eileen Carolina,Femenino,16,ecramosr231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1032798797Ramos_Ramirez_Eileen_Carolina
+1013578562,Bejarano Rodriguez Michel Karina,Femenino,18,MKBEJARANOR231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1013578562Bejarano_Rodriguez_Michel_Karina
+1000512817,Perez Monroy Maria Camila,Femenino,24,mcperezm231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000512817Perez_Monroy_Maria_Camila
+1000256399,Urquiza Cruz David Fernando,Masculino,19,dfurquizac221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1000256399Urquiza_Cruz_David_Fernando
+1000501791,Monroy Noriega Juan David,Masculino,22,jdmonryn231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000501791Monroy_Noriega_Juan_David
+1034656994,Castro Pulido Brandon Sthep,Masculino,18,bscastrop222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1034656994Castro_Pulido_Brandon_Sthep
+1016595827,Bernal Moreno Maryanh Dayanna,Femenino,16,mdbernalm231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1016595827Bernal_Moreno_Maryanh_Dayanna
+1072744395,Medina Carrillo Ana Maria,Femenino,18,ammedinac221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1072744395Medina_Carrillo_Ana_Maria
+1011081629,Albarran Martínez Julieth Samantha,Femenino,18,jsalbarranm222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1011081629Albarran_Martinez_Julieth_Samantha
+1016942642,Jerez Bustos Leidy Dayanna,Femenino,19,ldjerezb221@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1016942642Jerez_Bustos_Leidy_Dayanna
+1000574160,Bejarano Bayona Angie Valentina,Femenino,20,avbejaranob223@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1000574160Bejarano_Bayona_Angie_Valentina
+1031643107,Camargo Marin Paula Andrea,Femenino,18,pacamargom231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1031643107Camargo_Marin_Paula_Andrea
+1001285031,Londoño Castro Laura Sofia,Femenino,19,lslondonoc222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1001285031Londono_Castro_Laura_Sofia
+1070987686,Hernandez Leon Andres Camilo,Masculino,24,achernandezl221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1070987686Hernandez_Leon_Andres_Camilo
+1014258087,Espitia Cardenas Maria Yeraldin,Femenino,28,myespitiac222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1014258087Espitia_Cardenas_Maria_Yeraldin
+1073250268,Ruiz Ramirez Laura Alexandra,Femenino,24,laramirezr222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1073250268Ruiz_Ramirez_Laura_Alexandra
+1000520293,Vega Sanchez Daniel Esteban,Masculino,19,devegas231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1000520293Vega_Sanchez_Daniel_Esteban
+1000474678,Perdigon Martinez Jeison Steven,Masculino,19,jsperdigonm222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1000474678Perdigon_Martinez_Jeison_Steven
+1070987095,Rodrioguez Torres Luis Sebastian,Masculino,24,LSRODRIGUEZT231@CEN.EDU.CO,Bogotá,Sabatina,2023-1,1 Semestre,1070987095Rodrioguez_Torres_Luis_Sebastian
+1070977075,Algarra Barrero Johan Sebastian,Masculino,26,jsalgarrab231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1070977075Algarra_Barrero_Johan_Sebastian
+1000377847,Ballen Ruiz David Esteban,Masculino,21,deballenr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000377847Ballen_Ruiz_David_Esteban
+1074808454,Orjuela Medina Paula Daniela,Femenino,19,pdorjuelam222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1074808454Orjuela_Medina_Paula_Daniela
+1034777509,Ramirez Ramirez Sofia,Femenino,18,sramirezr222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1034777509Ramirez_Ramirez_Sofia
+1014737829,Hernandez Lopez Juan David,Masculino,18,JDHERNANDEZL231@CEN.EDU.CO,Bogotá,Diurna,2023-1,1 Semestre,1014737829Hernandez_Lopez_Juan_David
+1002700341,Sanchez Ruiz Yeimmi Paola,Femenino,24,YPSANCHEZR222@CEN.EDU.CO,Bogotá,Sabatina,2023-1,2 Semestre,1002700341Sanchez_Ruiz_Yeimmi_Paola
+1022427338,Zambrano Benavides Luis Fernando,Masculino,25,lfzambranob231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1022427338Zambrano_Benavides_Luis_Fernando
+1021312375,Fernandez Lince Daniela,Femenino,18,dfernandezl222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1021312375Fernandez_Lince_Daniela
+1034576702,Turriago Fernandez Danna Valentina,Femenino,17,dvturriagof231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1034576702Turriago_Fernandez_Danna_Valentina
+35535281,Rojas Mary Luz,Femenino,40,mlrojas231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,35535281Rojas_Mary_Luz
+1001093305,Albornoz Perez Yenyfer Paola,Femenino,20,ypalbornozp221@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1001093305Albornoz_Perez_Yenyfer_Paola
+1000127689,Gonzalez Cancelado Luisa Fernanda,Femenino,20,lfgonzalezc201@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000127689Gonzalez_Cancelado_Luisa_Fernanda
+1007228498,Trujillo Amparo Alejandra,Femenino,22,aatrujillo222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1007228498Trujillo_Amparo_Alejandra
+1112389107,Ceballos Ospina Valentina,Femenino,18,vceballoso222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1112389107Ceballos_Ospina_Valentina
+1099342459,Pérez Ariza Brayan Andrés,Masculino,33,bapereza222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1099342459Perez_Ariza_Brayan_Andres
+1070386129,Tovar Cruz Laura Nataly,Femenino,17,lntovarc231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070386129Tovar_Cruz_Laura_Nataly
+1010094016,Noreña Marin Sofia,Femenino,23,snorenamarin222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1010094016Norena_Marin_Sofia
+1073599138,Riaño Montero Nicolle Juliana,Femenino,18,njrianom221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1073599138Riano_Montero_Nicolle_Juliana
+1000518475,Cordoba Espinosa Valentina,Femenino,20,vcordobae231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1000518475Cordoba_Espinosa_Valentina
+1021665493,Sierra Pinzon Karol Tatiana,Femenino,18,ktsierrap221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1021665493Sierra_Pinzon_Karol_Tatiana
+1031643073,Cucunuba Leon Nicol Daniela,Femenino,18,ndcucunubal222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1031643073Cucunuba_Leon_Nicol_Daniela
+1000459845,Restrepo Rodriguez Melany Yicel,Femenino,20,myrestrepo222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000459845Restrepo_Rodriguez_Melany_Yicel
+1193538833,Rodriguez Mora Karen Viviana,Femenino,21,kvrodriguezm231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1193538833Rodriguez_Mora_Karen_Viviana
+1022418769,Carrillo Ruiz Jhoan Sebastian,Masculino,26,jscarrillor231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1022418769Carrillo_Ruiz_Jhoan_Sebastian
+1015430246,Calderon Reyes Monica Andrea,Femenino,30,macalderonr202@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1015430246Calderon_Reyes_Monica_Andrea
+1007490052,Martinez Volveras Julieth,Femenino,24,jmartinezv231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1007490052Martinez_Volveras_Julieth
+1034659384,Amaya Sarmiento Ibeth Natalia,Femenino,17,inamayas231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1034659384Amaya_Sarmiento_Ibeth_Natalia
+1019138644,Novoa Quintero Cindy Natalia,Femenino,24,cnnovoaq231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1019138644Novoa_Quintero_Cindy_Natalia
+1073232452,Benitez Riscanevo Laura Valentina,Femenino,16,lvbenitezr231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073232452Benitez_Riscanevo_Laura_Valentina
+1000714080,Aldana Moreno Wendy Geraldine,Femenino,23,wgaldanam231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1000714080Aldana_Moreno_Wendy_Geraldine
+1018511330,Guzman Forero Nicole,Femenino,23,nguzmanf212@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1018511330Guzman_Forero_Nicole
+1048434769,Lambis Ramirez Valentina,Femenino,19,vlambisr231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1048434769Lambis_Ramirez_Valentina
+1019056512,Tellez Parra Brayan Steiner,Masculino,32,bstellezp202@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1019056512Tellez_Parra_Brayan_Steiner
+1073502931,Icabuco Mesa Maria Fernanda,Femenino,18,mficabucom222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1073502931Icabuco_Mesa_Maria_Fernanda
+1014477508,Parada Garay Michelle Dayanna,Femenino,18,mdparadag231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1014477508Parada_Garay_Michelle_Dayanna
+1093784635,Galvis Perez Jesus Joaquin,Masculino,26,jjgalvisperez221@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1093784635Galvis_Perez_Jesus_Joaquin
+1031806105,Marquez Tibaduiza Daniela Loraine,Femenino,17,dlmarquezt231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1031806105Marquez_Tibaduiza_Daniela_Loraine
+1001203508,Bello Guerrero Valentina,Femenino,19,vbellog231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1001203508Bello_Guerrero_Valentina
+1048820437,Sandoval Alvarado Kely Yuliana,Femenino,18,kysandovala221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1048820437Sandoval_Alvarado_Kely_Yuliana
+1014737940,Marroquin Jimenez Paula Andrea,Femenino,18,pamarroquinj223@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1014737940Marroquin_Jimenez_Paula_Andrea
+1012332611,Gonzalez Yepes Juan Felipe,Masculino,17,jfgonzalezy231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1012332611Gonzalez_Yepes_Juan_Felipe
+1000688900,Santafe Cruz Luna Nathaly,Femenino,19,lnsantafec222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1000688900Santafe_Cruz_Luna_Nathaly
+1003674733,Villamil Melo Manuel Eduardo,Masculino,21,mevillamilm222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1003674733Villamil_Melo_Manuel_Eduardo
+1106738152,Ospina Rodriguez Karen Dayhana,Femenino,18,kdospinar231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1106738152Ospina_Rodriguez_Karen_Dayhana
+1110537904,Suarez Beltran Nestor Raul,Masculino,29,nrsuarezb212@cen.edu.co,Funza,Sabatina,2023-1,3 Semestre,1110537904Suarez_Beltran_Nestor_Raul
+1073250148,Supelano Contreras Daniela,Femenino,24,dsupelanoc231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1073250148Supelano_Contreras_Daniela
+1007333743,Diaz Salamanca Karen Tatiana,Femenino,22,ktdiazs222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1007333743Diaz_Salamanca_Karen_Tatiana
+1033793322,Coronado Diaz Mary Alexandra,Femenino,26,macoronadod222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1033793322Coronado_Diaz_Mary_Alexandra
+1073231445,Rodriguez Gonzalez Julian Andres,Masculino,17,jarodriguezg231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073231445Rodriguez_Gonzalez_Julian_Andres
+1010232875,Pinzon Medina Ana Maria,Femenino,25,AMPINZONM231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1010232875Pinzon_Medina_Ana_Maria
+1013674365,Cortes Ochoa Lina Marcela,Femenino,25,lmcorteso231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1013674365Cortes_Ochoa_Lina_Marcela
+1016103035,Figueredo Sanchez Daniel Alberto,Masculino,24,dafigueredos222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1016103035Figueredo_Sanchez_Daniel_Alberto
+1000521003,Niño Romero Laura Alejandra,Femenino,21,laninor2331@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1000521003Nino_Romero_Laura_Alejandra
+1001314562,Castillo Figueroa Laura Alejandra,Femenino,22,lacastillof222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1001314562Castillo_Figueroa_Laura_Alejandra
+52463443,Baron Cupitra Maria Yorladiz,Femenino,44,mybaronc231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,52463443Baron_Cupitra_Maria_Yorladiz
+1032796232,Grajales Pico Dayanna,Femenino,19,dgrajalesp231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1032796232Grajales_Pico_Dayanna
+1003067067,Osorio Diaz Isaura,Femenino,26,iosoriod231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1003067067Osorio_Diaz_Isaura
+1024541871,Martinez Pulido July Marithza,Femenino,29,jmmartinezp221@cen.edu.co,Bogotá,Nocturna,2023-1,4 Semestre,1024541871Martinez_Pulido_July_Marithza
+1015997009,Cetina Sánchez Karol Lizeth,Femenino,18,klcetinas222@cen.edu.co,Bogotá,Sabatina,2023-1,2 Semestre,1015997009Cetina_Sanchez_Karol_Lizeth
+1019983977,Cruz Barrera Valentina,Femenino,18,vcruzb221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1019983977Cruz_Barrera_Valentina
+1016088391,Capera Araujo Angie Katherin,Femenino,26,akcapelaa231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1016088391Capera_Araujo_Angie_Katherin
+1122920576,Gonzalez Nieto Diana Carolina,Femenino,18,dcgonzalezn@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1122920576Gonzalez_Nieto_Diana_Carolina
+1000240206,Valencia Barros Cristian Duvan,Masculino,19,CDVALENCIAB231@CEN.EDU.CO,Bogotá,Nocturna,2023-1,1 Semestre,1000240206Valencia_Barros_Cristian_Duvan
+1000622042,Farias Espinosa Andres Felipe,Masculino,19,affariase212@cen.edu.co,Funza,Diurna,2023-1,4 Semestre,1000622042Farias_Espinosa_Andres_Felipe
+1001219853,Guerrero Choconta Maria Alejandra,Femenino,19,maguerreroc221@cen.edu.co,Funza,Diurna,2023-1,3 Semestre,1001219853Guerrero_Choconta_Maria_Alejandra
+1003689556,Gomez Ramirez Sara Salem,Femenino,20,ssgomezr231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1003689556Gomez_Ramirez_Sara_Salem
+1013679929,Sanabria Ochoa Vanessa,Femenino,24,vsanabriao222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1013679929Sanabria_Ochoa_Vanessa
+1070384966,Rodriguez Ramos Yessica Paola,Femenino,18,yprodriguezr231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1070384966Rodriguez_Ramos_Yessica_Paola
+1029142054,Bonilla Prieto Liseth Geraldine,Femenino,17,lgbonillap231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1029142054Bonilla_Prieto_Liseth_Geraldine
+1001049761,Rodriguez Cortes Karina Yizet,Femenino,20,kyrodriguezc221@cen.edu.co,Bogotá,Diurna,2023-1,3 Semestre,1001049761Rodriguez_Cortes_Karina_Yizet
+1022922066,Rodriguez Caicedo Laura Ximena,Femenino,19,lxrodriguezc231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1022922066Rodriguez_Caicedo_Laura_Ximena
+1070704728,Rodriguez Morales Victor Alejandro,Masculino,17,varodriguezm231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1070704728Rodriguez_Morales_Victor_Alejandro
+1011085542,Gomez Hernandez Juana Valentina,Femenino,17,jvgomezh231@cen.edu.co,Bogotá,Diurna,2023-1,1 Semestre,1011085542Gomez_Hernandez_Juana_Valentina
+1001220125,Salinas Gonzalez Maria Alejandra,Femenino,21,masalinasg221@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1001220125Salinas_Gonzalez_Maria_Alejandra
+1003510856,Ramirez Perez Carlos Felipe,Masculino,19,cframirezp212@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1003510856Ramirez_Perez_Carlos_Felipe
+1001174771,Rojas Estrada Brayan,Masculino,21,brojase222@cen.edu.co,Funza,Diurna,2023-1,2 Semestre,1001174771Rojas_Estrada_Brayan
+1073502923,Johnson Garzon Dana Briyith,Femenino,18,dbjohnsong231@cen.edu.co,Funza,Diurna,2023-1,1 Semestre,1073502923Johnson_Garzon_Dana_Briyith
+1034314849,Valderrama Lopez Daral Nicole,Femenino,19,dnvalderramal222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1034314849Valderrama_Lopez_Daral_Nicole
+35378930,Cante Chala Lady Bibiana,Femenino,39,lbcantec231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,35378930Cante_Chala_Lady_Bibiana
+1000615338,Pinilla Morales Laura Fernanda,Femenino,21,lfpinillam222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1000615338Pinilla_Morales_Laura_Fernanda
+1014477084,Parra Gutierrez Sharith Daniela,Femenino,18,sdparrag231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1014477084Parra_Gutierrez_Sharith_Daniela
+1010087174,Torres Quintero Eilin Tiaret,Femenino,22,ettorresq231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1010087174Torres_Quintero_Eilin_Tiaret
+1013683970,Carmona Chitiva Angela Zulemy,Femenino,24,azcarmonac212@cen.edu.co,Bogotá,Nocturna,2023-1,3 Semestre,1013683970Carmona_Chitiva_Angela_Zulemy
+1031185102,Salamanca Colorado Maria Fernanda,Femenino,22,mfsalamancac231@cen.edu.co,Bogotá,Sabatina,2023-1,1 Semestre,1031185102Salamanca_Colorado_Maria_Fernanda
+1033746539,Sarmiento Chaparro Natalia Andrea,Femenino,30,nasarmientoc222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1033746539Sarmiento_Chaparro_Natalia_Andrea
+1005850545,Suarez Trujillo Yuraidy Nury,Femenino,22,ynsuarezt222@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1005850545Suarez_Trujillo_Yuraidy_Nury
+1013576422,Sanchez Alvarez Danna Marian,Femenino,19,dmsancheza222@cen.edu.co,Bogotá,Diurna,2023-1,2 Semestre,1013576422Sanchez_Alvarez_Danna_Marian
+1033814243,Ruiz Galeano Harwin Frandey,Masculino,24,hfruizg231@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1033814243Ruiz_Galeano_Harwin_Frandey
+1006697316,Camargo Fontalvo Victor Manuel,Masculino,21,vmcamargof222@cen.edu.co,Bogotá,Nocturna,2023-1,1 Semestre,1006697316Camargo_Fontalvo_Victor_Manuel
+1000465305,Rodriguez Rios Tania Alenjandra,Femenino,21,tarodriguezr222@cen.edu.co,Bogotá,Nocturna,2023-1,2 Semestre,1000465305Rodriguez_Rios_Tania_Alenjandra
