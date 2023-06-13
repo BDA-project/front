@@ -1,3 +1,4 @@
+import { Footer } from '../components/footer'
 import { Header } from '../components/header'
 
 export const XataPage = () => {
@@ -5,6 +6,7 @@ export const XataPage = () => {
       <>
          <Header />
          <div>XataPAge</div>
+         <Footer />
       </>
    )
 }

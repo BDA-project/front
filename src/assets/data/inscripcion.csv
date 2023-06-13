@@ -1,4 +1,4 @@
-inscripcion_id,curso_nombre,docente_nombre,estudiante_id,inscripcion_nota,id
+inscripcion_id,curso_id,docente_id,estudiante_id,inscripcion_nota,id
 1,Animales_de_Compania_A1_-_Diurna,Henry_Portilla,1025525589Melo_Ochoa_Natalia_Sofia,43,1
 2,Animales_de_Produccion_F1_Funza_-_Diurna,Bernardo_Martinez,1010051202Rodriguez_Manosalva_Ana_Sofia,35,2
 3,Anatomia_A2_-_Diurna,Sergio_Gonzalez,1012332611Gonzalez_Yepes_Juan_Felipe,43,3

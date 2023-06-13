@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { collection, addDoc, doc } from 'firebase/firestore'
+import { doc, setDoc } from 'firebase/firestore'
 import { db } from '../../helpers/firebase'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
@@ -20,7 +20,6 @@ export const CreateCollectionAsignaturas = ({ collectionName, totalData }) => {
 
          const lines = csvData.split('\n')
          const headers = lines[0].split(',')
-
          const data = []
          let counter = 0
 
@@ -38,24 +37,25 @@ export const CreateCollectionAsignaturas = ({ collectionName, totalData }) => {
                   hasUndefinedValue = true
                   break
                }
-
-               if (headers[j] === 'programa_nombre') {
-                  // Agregar referencia a la colección "programas" usando el ID del documento
-                  const programaId = values[j] // Reemplazar con el valor adecuado del CSV
-                  entry[headers[j]] = doc(db, 'programas', programaId)
-               } else {
-                  entry[headers[j]] = values[j]
-               }
+               entry[headers[j]] = values[j]
             }
 
             if (!hasUndefinedValue) {
-               data.push(entry)
+               const programaId = entry.programa_id
+               const programaRef = doc(db, 'programa', programaId)
+               entry.programa_id = programaRef // Reemplaza el valor de la columna "programa_nombre" con la referencia al documento en la colección "programa"
+
+               const documentRef = doc(
+                  db,
+                  collectionName,
+                  entry[`${collectionName}_id`]
+               )
+               data.push({ ref: documentRef, data: entry })
                counter++
             }
          }
 
-         const collectionRef = collection(db, collectionName)
-         await Promise.all(data.map((entry) => addDoc(collectionRef, entry)))
+         await Promise.all(data.map(({ ref, data }) => setDoc(ref, data))) // Usar "setDoc" en lugar de "addDoc" para establecer el ID del documento
 
          setMessage(
             `Se ha creado la colección "${collectionName}" y se han cargado los "${totalData}" datos del CSV exitosamente.`
@@ -63,8 +63,7 @@ export const CreateCollectionAsignaturas = ({ collectionName, totalData }) => {
       } catch (error) {
          console.log(error)
          setMessage(
-            'Ha ocurrido un error al crear la colección o cargar los datos del CSV.',
-            error
+            'Ha ocurrido un error al crear la colección o cargar los datos del CSV.'
          )
       } finally {
          setLoading(false) // Ocultar progreso

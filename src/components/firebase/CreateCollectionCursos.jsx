@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { collection, addDoc, doc } from 'firebase/firestore'
+import { collection, addDoc, doc, setDoc } from 'firebase/firestore'
 import { db } from '../../helpers/firebase'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
@@ -38,24 +38,25 @@ export const CreateCollectionCursos = ({ collectionName, totalData }) => {
                   hasUndefinedValue = true
                   break
                }
-
-               if (headers[j] === 'asignatura_nombre') {
-                  // Agregar referencia a la colección "asignaturas" usando el ID del documento
-                  const asignaturaId = values[j] // Reemplazar con el valor adecuado del CSV
-                  entry[headers[j]] = doc(db, 'asignaturas', asignaturaId)
-               } else {
-                  entry[headers[j]] = values[j]
-               }
+               entry[headers[j]] = values[j]
             }
 
             if (!hasUndefinedValue) {
-               data.push(entry)
+               const asignaturaId = entry.asignatura_id
+               const asignaturaRef = doc(db, 'asignatura', asignaturaId)
+               entry.asignatura_id = asignaturaRef // Reemplaza el valor de la columna "asignatura_nombre" con la referencia al documento en la colección "asignaturas"
+
+               const documentRef = doc(
+                  db,
+                  collectionName,
+                  entry[`${collectionName}_id`]
+               )
+               data.push({ ref: documentRef, data: entry })
                counter++
             }
          }
 
-         const collectionRef = collection(db, collectionName)
-         await Promise.all(data.map((entry) => addDoc(collectionRef, entry)))
+         await Promise.all(data.map(({ ref, data }) => setDoc(ref, data))) // Usar "setDoc" en lugar de "addDoc" para establecer el ID del documento
 
          setMessage(
             `Se ha creado la colección "${collectionName}" y se han cargado los "${totalData}" datos del CSV exitosamente.`
@@ -63,8 +64,7 @@ export const CreateCollectionCursos = ({ collectionName, totalData }) => {
       } catch (error) {
          console.log(error)
          setMessage(
-            'Ha ocurrido un error al crear la colección o cargar los datos del CSV.',
-            error
+            'Ha ocurrido un error al crear la colección o cargar los datos del CSV.'
          )
       } finally {
          setLoading(false) // Ocultar progreso

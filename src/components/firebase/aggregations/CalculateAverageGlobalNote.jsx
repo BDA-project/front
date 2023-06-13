@@ -1,14 +1,13 @@
 import { useState } from 'react'
-import { collection, getDocs } from 'firebase/firestore'
+import { collection, getDocs, doc } from 'firebase/firestore'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import { db } from '../../../helpers/firebase'
-import { fetchStudentName } from './FetchStudentName'
 
-const calculateAverageNote = async () => {
+const calculateAverageGlobalNote = async () => {
    try {
-      const collectionRef = collection(db, 'inscripciones')
+      const collectionRef = collection(db, 'inscripcion')
       const querySnapshot = await getDocs(collectionRef)
 
       let totalNotes = 0
@@ -22,14 +21,9 @@ const calculateAverageNote = async () => {
 
             totalNotes += note
             count++
-
-            const studentRef = inscripcionData.estudiante_id
-            const studentName = await fetchStudentName(studentRef)
-            console.log('Estudiante:', studentName)
          }
       })
 
-      console.log(totalNotes, count)
       const averageNote = totalNotes / count
 
       return averageNote
@@ -39,23 +33,35 @@ const calculateAverageNote = async () => {
    }
 }
 
-export const AggregationButtons = () => {
+export const AverageNote = () => {
    const [averageNote, setAverageNote] = useState(null)
+   const [showAverageNote, setShowAverageNote] = useState(false)
 
-   const handleCalculateAverageNote = async () => {
-      const result = await calculateAverageNote()
+   const handleCalculateAverageGlobalNote = async () => {
+      const result = await calculateAverageGlobalNote()
       setAverageNote(result)
+      setShowAverageNote(true)
    }
 
    return (
-      <Box m={2}>
-         <Button variant="contained" onClick={handleCalculateAverageNote}>
+      <Box
+         display="flex"
+         flexDirection="column"
+         alignItems="center"
+         m={2}
+         border="1px solid #1976d2"
+         borderRadius="4px"
+         p={2}
+      >
+         <Button variant="contained" onClick={handleCalculateAverageGlobalNote}>
             Calcular Promedio de Notas
          </Button>
-         <Typography m={2}>
-            Promedio de Notas:
-            {averageNote !== null ? averageNote.toFixed(2) : '-'}
-         </Typography>
+         {showAverageNote && (
+            <Typography m={2}>
+               Promedio de Notas:{' '}
+               {averageNote !== null ? averageNote.toFixed(2) : '-'}
+            </Typography>
+         )}
       </Box>
    )
 }

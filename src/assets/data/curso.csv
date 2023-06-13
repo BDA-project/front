@@ -1,0 +1,46 @@
+curso_id,curso_nombre,curso_intensidad_horaria,curso_cantidad_estudiantes,asignatura_id,id
+Administracion_de_Medicamentos_F1_-_Diurna,Administración de Medicamentos F1 - Diurna,32,16,ADMINISTRACION_DE_MEDICAMENTOS_-_Diurna,1
+Animales_de_Compania_A2_-_Diurna,Animales de Compañía A2 - Diurna,32,22,ANIMALES_DE_COMPANIA_-_Diurna,2
+Anatomia_Forense_A2_-_Diurna,Anatomía Forense A2 - Diurna,32,26,ANATOMIA_FORENSE_-_Diurna,3
+Adulto_Mayor_S1_-_Sabatina,Adulto Mayor S1 - Sabatina,32,16,ADULTO_MAYOR_-_Sabatina,4
+Anatomia_Forense_B1_-_Nocturna,Anatomía Forense B1 - Nocturna,32,17,ANATOMIA_FORENSE_-_Nocturna,5
+Adulto_Mayor_F1_-_Diurna,Adulto Mayor F1 - Diurna,32,20,ADULTO_MAYOR_-_Diurna,6
+Accidentologia_Vial_B1_-_Nocturna,Accidentología Vial B1 - Nocturna,64,17,ACCIDENTOLOGIA_VIAL_INV_-_Nocturna,7
+Analisis_de_la_Evidencia_F1_Funza_-_Diurna,Análisis de la Evidencia F1 (Funza) - Diurna,64,13,ANALISIS_DE_LA_EVIDENCIA_INV_-_Diurna,8
+Animales_de_Produccion_S1_-_Sabatina,Animales de Producción S1 - Sabatina,32,34,ANIMALES_DE_PRODUCCION_-_Sabatina,9
+Anatomia_Forense_B1_-_Diurna,Anatomía Forense B1 - Diurna,32,17,ANATOMIA_FORENSE_-_Diurna,10
+Animales_de_Compania_S1_-_Sabatina,Animales de Compañía S1 - Sabatina,32,48,ANIMALES_DE_COMPANIA_-_Sabatina,11
+Analisis_de_la_Evidencia_B1_-_Nocturna,Análisis de la Evidencia B1 - Nocturna,64,10,ANALISIS_DE_LA_EVIDENCIA_INV_-_Nocturna,12
+Administracion_de_Medicamentos_F1_-_Sabatina,Administración de Medicamentos F1 - Sabatina,32,16,ADMINISTRACION_DE_MEDICAMENTOS_-_Sabatina,13
+Animales_de_Compania_F1_Funza_-_Diurna,Animales de Compañía F1 (Funza) - Diurna,32,38,ANIMALES_DE_COMPANIA_-_Diurna,14
+Animales_de_Compania_A1_-_Diurna,Animales de Compañía A1 - Diurna,32,27,ANIMALES_DE_COMPANIA_-_Diurna,15
+Anatomia_A1_-_Diurna,Anatomía A1 - Diurna,64,28,ANATOMIA_-_Diurna,16
+Animales_de_Produccion_A1_-_Diurna,Animales de Producción A1 - Diurna,32,25,ANIMALES_DE_PRODUCCION_-_Diurna,17
+Anatomia_B1_-_Nocturna,Anatomía B1 - Nocturna,64,35,ANATOMIA_-_Nocturna,18
+Analisis_de_la_Evidencia_B1_-_Diurna,Análisis de la Evidencia B1 - Diurna,64,10,ANALISIS_DE_LA_EVIDENCIA_INV_-_Diurna,19
+Anatomia_S1_-_Sabatina,Anatomía S1 - Sabatina,64,33,ANATOMIA_-_Sabatina,20
+Adulto_Mayor_F1_-_Sabatina,Adulto Mayor F1 - Sabatina,32,20,ADULTO_MAYOR_-_Sabatina,21
+Animales_de_Produccion_A3_-_Nocturna,Animales de Producción A3 - Nocturna,32,20,ANIMALES_DE_PRODUCCION_-_Nocturna,22
+Anatomia_A2_-_Diurna,Anatomía A2 - Diurna,64,22,ANATOMIA_-_Diurna,23
+Admision_al_Usuario_F1_-_Diurna,Admisión al Usuario F1 - Diurna,32,20,ADMISION_AL_USUARIO_EN_SALUD_-_Diurna,24
+Animales_de_Produccion_A3_-_Diurna,Animales de Producción A3 - Diurna,32,20,ANIMALES_DE_PRODUCCION_-_Diurna,25
+Analisis_de_la_Evidencia_A1_-_Diurna,Análisis de la Evidencia A1 - Diurna,64,13,ANALISIS_DE_LA_EVIDENCIA_INV_-_Diurna,26
+Accidentologia_Vial_A1_-_Diurna,Accidentología Vial A1 - Diurna,64,21,ACCIDENTOLOGIA_VIAL_INV_-_Diurna,27
+Animales_de_Produccion_F1_Funza_-_Diurna,Animales de Producción F1 (Funza) - Diurna,32,22,ANIMALES_DE_PRODUCCION_-_Diurna,28
+Anatomia_A3_-_Diurna,Anatomía A3 - Diurna,64,22,ANATOMIA_-_Diurna,29
+Accidentologia_Vial_F1_Funza_-_Diurna,Accidentología Vial F1 (Funza) - Diurna,64,16,ACCIDENTOLOGIA_VIAL_INV_-_Diurna,30
+Anatomia_S1_-_Diurna,Anatomía S1 - Diurna,64,33,ANATOMIA_-_Diurna,31
+Anatomia_B1_-_Diurna,Anatomía B1 - Diurna,64,35,ANATOMIA_-_Diurna,32
+Animales_de_Compania_B1_-_Nocturna,Animales de Compañía B1 - Nocturna,32,33,ANIMALES_DE_COMPANIA_-_Nocturna,33
+Animales_de_Produccion_B1_-_Diurna,Animales de Producción B1 - Diurna,32,35,ANIMALES_DE_PRODUCCION_-_Diurna,34
+Admision_al_Usuario_F1_-_Sabatina,Admisión al Usuario F1 - Sabatina,32,20,ADMISION_AL_USUARIO_EN_SALUD_-_Sabatina,35
+Animales_de_Produccion_A2_-_Nocturna,Animales de Producción A2 - Nocturna,32,26,ANIMALES_DE_PRODUCCION_-_Nocturna,36
+Animales_de_Produccion_A3_-_Sabatina,Animales de Producción A3 - Sabatina,32,20,ANIMALES_DE_PRODUCCION_-_Sabatina,37
+Animales_de_Compania_S1_-_Diurna,Animales de Compañía S1 - Diurna,32,48,ANIMALES_DE_COMPANIA_-_Diurna,38
+Animales_de_Compania_A3_-_Diurna,Animales de Compañía A3 - Diurna,32,23,ANIMALES_DE_COMPANIA_-_Diurna,39
+Anatomia_B1_-_Sabatina,Anatomía B1 - Sabatina,64,35,ANATOMIA_-_Sabatina,40
+Anatomia_F1_Funza_-_Diurna,Anatomía F1 (Funza) - Diurna,64,38,ANATOMIA_-_Diurna,41
+Animales_de_Produccion_A2_-_Diurna,Animales de Producción A2 - Diurna,32,26,ANIMALES_DE_PRODUCCION_-_Diurna,42
+Adulto_Mayor_S1_-_Diurna,Adulto Mayor S1 - Diurna,32,16,ADULTO_MAYOR_-_Diurna,43
+Accidentologia_Vial_B1_-_Diurna,Accidentología Vial B1 - Diurna,64,17,ACCIDENTOLOGIA_VIAL_INV_-_Diurna,44
+Animales_de_Produccion_B1_-_Nocturna,Animales de Producción B1 - Nocturna,32,35,ANIMALES_DE_PRODUCCION_-_Nocturna,45

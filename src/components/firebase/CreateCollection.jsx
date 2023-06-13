@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { collection, addDoc } from 'firebase/firestore'
+import { collection, addDoc, doc, setDoc } from 'firebase/firestore'
 import { db } from '../../helpers/firebase'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
@@ -16,6 +16,7 @@ export const CreateCollection = ({ collectionName, totalData }) => {
 
          const csvFileName = `../src/assets/data/${collectionName}.csv`
          const response = await fetch(csvFileName)
+         console.log(response)
          const csvData = await response.text()
 
          const lines = csvData.split('\n')
@@ -42,13 +43,18 @@ export const CreateCollection = ({ collectionName, totalData }) => {
             }
 
             if (!hasUndefinedValue) {
-               data.push(entry)
+               console.log(`${collectionName}_id`)
+               const documentRef = doc(
+                  db,
+                  collectionName,
+                  entry[`${collectionName}_id`]
+               ) // Utilizar el valor de "id" como ID del documento
+               data.push({ ref: documentRef, data: entry })
                counter++
             }
          }
 
-         const collectionRef = collection(db, collectionName)
-         await Promise.all(data.map((entry) => addDoc(collectionRef, entry)))
+         await Promise.all(data.map(({ ref, data }) => setDoc(ref, data))) // Usar "setDoc" en lugar de "addDoc" para establecer el ID del documento
 
          setMessage(
             `Se ha creado la colección "${collectionName}" y se han cargado los "${totalData}" datos del CSV exitosamente.`

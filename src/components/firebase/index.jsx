@@ -6,7 +6,13 @@ import { CreateCollectionAsignaturas } from './CreateCollectionAsignaturas'
 import { CreateCollectionCursos } from './CreateCollectionCursos'
 import { ImageComponent } from './ImageComponent'
 import { CodeAccordion } from './CodeAccordion'
-import { AggregationButtons } from './aggregations/CalculateAverageNote'
+
+import { ObtenerIntensidadHorariaAsignaturas } from './mapreduce/ObtenerIntensidadHorariaAsignaturas'
+import { ObtenerIntensidadHorariaProgramas } from './mapreduce/ObtenerIntensidadHorariaProgramas'
+import { AverageNote } from './aggregations/CalculateAverageGlobalNote'
+import { AverageNoteByCourse } from './aggregations/CalculateAvergareNoteByCourse'
+import { AverageNoteByStudent } from './aggregations/CalculateAverageNoteByStudent'
+// import { StudentChart } from './charts/StudentChart'
 
 export const FirebaseTest = () => {
    return (
@@ -28,18 +34,18 @@ export const FirebaseTest = () => {
             Crear las colecciones
          </Typography>
          <CodeAccordion />
-         <CreateCollection collectionName={'estudiantes'} totalData={50} />
+         <CreateCollection collectionName={'estudiante'} totalData={504} />
          {/* 504 */}
-         <CreateCollection collectionName={'docentes'} totalData={9} />
-         <CreateCollection collectionName={'programas'} totalData={7} />
+         <CreateCollection collectionName={'docente'} totalData={9} />
+         <CreateCollection collectionName={'programa'} totalData={7} />
          <CreateCollectionAsignaturas
-            collectionName={'asignaturas'}
+            collectionName={'asignatura'}
             totalData={21}
          />
-         <CreateCollectionCursos collectionName={'cursos'} totalData={45} />
+         <CreateCollectionCursos collectionName={'curso'} totalData={45} />
          <CreateCollectionInscripciones
-            collectionName={'inscripciones'}
-            totalData={100}
+            collectionName={'inscripcion'}
+            totalData={705}
          />
          {/* 705 */}
          <CheckReference />
@@ -61,7 +67,28 @@ export const FirebaseTest = () => {
          >
             Agregaciones
          </Typography>
-         <AggregationButtons />
+         <AverageNote />
+         <AverageNoteByCourse />
+         <AverageNoteByStudent />
+         <Typography
+            m={2}
+            variant="h4"
+            component="h4"
+            sx={{ color: '#1976d2' }}
+         >
+            Map Reduce
+         </Typography>
+         <ObtenerIntensidadHorariaAsignaturas />
+         <ObtenerIntensidadHorariaProgramas />
+         <Typography
+            m={2}
+            variant="h4"
+            component="h4"
+            sx={{ color: '#1976d2' }}
+         >
+            Gráficos
+         </Typography>
+         {/* <StudentChart /> */}
       </Box>
    )
 }

@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { collection, addDoc, doc } from 'firebase/firestore'
+import { doc, setDoc } from 'firebase/firestore'
 import { db } from '../../helpers/firebase'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
@@ -41,32 +41,33 @@ export const CreateCollectionInscripciones = ({
                   hasUndefinedValue = true
                   break
                }
-
-               if (headers[j] === 'curso_nombre') {
-                  // Agregar referencia a la colección "cursos" usando el ID del documento
-                  const cursoId = values[j] // Reemplazar con el valor adecuado del CSV
-                  entry[headers[j]] = doc(db, 'cursos', cursoId)
-               } else if (headers[j] === 'docente_nombre') {
-                  // Agregar referencia a la colección "docentes" usando el ID del documento
-                  const docenteId = values[j] // Reemplazar con el valor adecuado del CSV
-                  entry[headers[j]] = doc(db, 'docentes', docenteId)
-               } else if (headers[j] === 'estudiante_id') {
-                  // Agregar referencia a la colección "estudiantes" usando el ID del documento
-                  const estudianteId = values[j] // Reemplazar con el valor adecuado del CSV
-                  entry[headers[j]] = doc(db, 'estudiantes', estudianteId)
-               } else {
-                  entry[headers[j]] = values[j]
-               }
+               entry[headers[j]] = values[j]
             }
 
             if (!hasUndefinedValue) {
-               data.push(entry)
+               const cursoId = entry.curso_id
+               const cursoRef = doc(db, 'curso', cursoId)
+               entry.curso_id = cursoRef // Reemplaza el valor de la columna "curso_nombre" con la referencia al documento en la colección "cursos"
+
+               const docenteId = entry.docente_id
+               const docenteRef = doc(db, 'docente', docenteId)
+               entry.docente_id = docenteRef // Reemplaza el valor de la columna "docente_nombre" con la referencia al documento en la colección "docentes"
+
+               const estudianteId = entry.estudiante_id
+               const estudianteRef = doc(db, 'estudiante', estudianteId)
+               entry.estudiante_id = estudianteRef // Reemplaza el valor de la columna "estudiante_id" con la referencia al documento en la colección "estudiantes"
+
+               const documentRef = doc(
+                  db,
+                  collectionName,
+                  entry[`${collectionName}_id`]
+               )
+               data.push({ ref: documentRef, data: entry })
                counter++
             }
          }
 
-         const collectionRef = collection(db, collectionName)
-         await Promise.all(data.map((entry) => addDoc(collectionRef, entry)))
+         await Promise.all(data.map(({ ref, data }) => setDoc(ref, data))) // Usar "setDoc" en lugar de "addDoc" para establecer el ID del documento
 
          setMessage(
             `Se ha creado la colección "${collectionName}" y se han cargado los "${totalData}" datos del CSV exitosamente.`
@@ -74,8 +75,7 @@ export const CreateCollectionInscripciones = ({
       } catch (error) {
          console.log(error)
          setMessage(
-            'Ha ocurrido un error al crear la colección o cargar los datos del CSV.',
-            error
+            'Ha ocurrido un error al crear la colección o cargar los datos del CSV.'
          )
       } finally {
          setLoading(false) // Ocultar progreso
