@@ -18,7 +18,6 @@ echarts.use([
 ])
 
 export const AsignaturasChart = ({ intensidadesHorarias }) => {
-   console.log(intensidadesHorarias)
    const chartRef = useRef(null)
 
    useEffect(() => {

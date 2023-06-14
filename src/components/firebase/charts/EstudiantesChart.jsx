@@ -17,7 +17,7 @@ echarts.use([
    CanvasRenderer,
 ])
 
-export const ProgramasChart = ({ intensidadesHorarias }) => {
+export const EstudiantesChart = ({ intensidadesHorarias }) => {
    const chartRef = useRef(null)
 
    useEffect(() => {
@@ -25,8 +25,8 @@ export const ProgramasChart = ({ intensidadesHorarias }) => {
          const myChart = echarts.init(chartRef.current)
 
          const data = intensidadesHorarias.map((resultado) => ({
-            name: resultado.programa,
-            value: resultado.intensidadHorariaTotal,
+            name: resultado.asignatura,
+            value: resultado.totalEstudiantes,
          }))
 
          const option = {
