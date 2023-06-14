@@ -18,7 +18,7 @@ const tabsConfig = [
       color: '#B97FFF', // Morado
    },
    {
-      label: 'Spark',
+      label: 'Cassandra',
       path: '/spark',
       color: '#FFA500', // Naranja
    },

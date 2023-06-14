@@ -117,10 +117,7 @@ export const Introduction = () => {
             sx={{ textAlign: 'justify', width: '40%', margin: '8px auto' }}
             variant="body1"
             component="p"
-         >
-            Realizar la comparativa entre 3 bases de datos NOSQL: Xata Firebase
-            Spark
-         </Typography>
+         ></Typography>
          <Typography
             sx={{ textAlign: 'center', width: '40%', margin: '8px auto' }}
             variant="body1"

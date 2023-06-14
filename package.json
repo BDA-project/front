@@ -30,6 +30,8 @@
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
+    "react-iframe": "^1.8.5",
+    "react-ipynb-renderer": "^2.1.2",
     "react-legend": "^1.0.1",
     "react-papaparse": "^4.1.0",
     "react-router-dom": "^6.12.1",

@@ -1,11 +1,12 @@
+import { CassandraTest } from '../components/cassandra'
 import { Footer } from '../components/footer'
 import { Header } from '../components/header'
 export const SparkPage = () => {
    return (
       <>
          <Header />
-         <div>SparkPage</div>
-         <Footer />
+         <CassandraTest />
+         <Footer color={'#FFA500'} />
       </>
    )
 }
